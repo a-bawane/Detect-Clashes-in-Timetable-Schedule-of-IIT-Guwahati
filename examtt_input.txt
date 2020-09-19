@@ -1,0 +1,466 @@
+BT201	Biochemical Process Calculations	Prof. Debasish Das, Dr. Senthilkumar Sivaprakasam	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+BT202	Bio-thermodynamics	Dr. Priyadarshi Satpati, Prof. N. Selvaraju	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+BT203	Biochemistry	Prof. Rajaram Swaminathan, Prof. Latha Rangan	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+BT204	Genetics	Dr. Bithiah Grace Jaganathan, Dr. Ajaikumar Bahulayan Kunnumakkara	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+BT205	Cell and Molecular Biology	Dr. Kusum Kumari Singh, Prof. Siddhartha Sankar Ghosh	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+BT301	Bioinformatics and Computational Biology	Dr. Anand Baskaran, Dr. Shankar Prasad Kanaujia	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+BT301M	Cellular Biotechnology	Dr. Shirisha Nagotu, Dr. Rajkumar Parshottambhai Thummer	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+BT303	Immunology	Dr. Sachin Kumar	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+BT309	Plant Biotechnology	Prof. Rakhi Chaturvedi, Prof. Lingaraj Sahoo	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+BT310	Bioinformatics and Computational Biology Lab	Dr. Shankar Prasad Kanaujia, Dr. Anand Baskaran	***	***
+BT380	Molecular Biotechnology Laboratory	Prof. Gurvinder Kaur Saini, Prof. Veeranki Venkata Dasu	***	***
+BT404	Bioseparation Engineering	Prof. Pranab Goswami	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+BT405	Environmental Biotechnology	Prof. Aiyagari Ramesh	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+BT501	Biotechniques	Dr. Nitin Chaudhary, Dr. Vibin Ramakrishnan	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+BT503	Advanced Genetic Engineering	Prof. Utpal Bora	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+BT510	Analytical Biotechnology Lab	Prof. Vishal Trivedi, Dr. Pranjal Chandra, Dr. Kusum Kumari Singh	***	***
+BT600	M.Tech Seminar	Prof. Vishal Trivedi	***	***
+BT612	Systems Biology	Dr. Biplab Bose	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+BT615	Cell Signalling and Development	Prof. Ranjan Tamuli	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+BT618	Biomaterials	Dr. Biman Behari Mandal	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+BT629	Metagenomics	Prof. Sanjukta Patra	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+BT631	Protein Structure and Function	Prof. Arun Goyal	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+BT633	Human Biology and Diseases	Dr. Anil Mukund Limaye, Dr. Manish Kumar	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+BT640	Neural Imaging And Signal Systems	Dr. Cota Navin Gupta	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+BT643	Biointerface Engineering	Dr. Lalit Mohan Pandey	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CE101	Engineering Drawing	Dr. Vinayak Narayan Kulkarni, Dr. Arindam, Dr. Anjan Kumar Siddagangaiah, Dr. Sajan Kapil, Dr. Tadikonda Venkata Bharat	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CE202	Solid Mechanics	Dr. Hrishikesh Sharma	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CE203	Fluid Mechanics	Prof. Gautam Barua	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CE207	Engineering Geology	Dr. Archana M Nair, Dr. Rishikesh Bharti	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CE208	Engineering Geology Lab	Dr. Archana M Nair, Dr. Rishikesh Bharti	***	***
+CE211	Civil Engineering Materials	Dr. Indu Siva Ranjani Gandhi	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CE212	Civil Engineering Materials Laboratory	Prof. Bulu Pradhan, Dr. Indu Siva Ranjani Gandhi	***	***
+CE214	Fluid Mechanics Lab	Prof. Rajib Kumar Bhattacharjya	***	***
+CE302	Structural Analysis II	Dr. Kaustubh Dasgupta	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CE303	Geotechnical Engg. II	Dr. Ravi K	***	***
+CE304	Transportation Engg. I	Prof. Rajan Choudhary	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CE305	Reinforced Concrete Design	Prof. Konjengbam Darunkumar Singh	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+CE313	Geotechnical Engineering II Lab	Dr. Anil Kumar Mishra, Dr. Ravi K	***	***
+CE314	Transportation Engineering I Lab	Prof. Rajan Choudhary	***	***
+CE316	Environmental Engineering II	Prof. Pranab Kumar Ghosh	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CE402	Design Project	Prof. Konjengbam Darunkumar Singh	***	***
+CE402	Design Project	dupccivil	***	***
+CE415	Prestressed Concrete and Industrial Structures	Prof. Sajal Kanti Deb	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CE416	Bridge Engineering	Prof. Sudip Talukdar	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CE445	Solid Waste Engineeing	Prof. Ajay Kalamdhad	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CE498	Project	dupccivil	***	***
+CE501	Continuum Mechanics	Dr. Amit Balasaheb Shelke	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CE502	Finite Element Methods	Prof. Anjan Dutta	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CE503	Structural Dynamics	Dr. Arunasis Chakraborty	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CE512	Structural Engineering Laboratory	Prof. Hemant B. Kaushik	***	***
+CE513	Statistical Methods In Civil Engineering	Dr. Budhaditya Hazra	18Sep,2019(09.00to11.00)	24Nov,2019(14.00to17.00)
+CE521	Process Chemistry for Water and Wastewater Treatment	Prof. Saswati Chakraborty	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CE522	Physico-chemical Processes in Environmental Engineering	Prof. Mohammad Jawed	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CE523	Air and Noise Pollution	Prof. Sharad Bhaurao Gokhale	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CE527	Design of Environmental Engineering Systems	Prof. Saswati Chakraborty	***	***
+CE531	Advanced Soil Mechanics	Prof. Sreedeep Sekharan	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CE532	Dynamics of Soil and Foundations	Dr. Abhishek Kumar	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CE541	Infrastructure Planning	Dr. Laishram Boeing Singh	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CE542	Project Management in Construction	Dr. Laishram Boeing Singh	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+CE543	Construction Methods and Equipment Management	Prof. Bulu Pradhan	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CE549	Project and Thesis Phase-I	dppccivil	***	***
+CE551	Surface Water Hydrology	Prof. Arup Kumar Sarma	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CE553	Advanced Hydraulic Engineering	Dr. Bimlesh Kumar	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+CE554	Advanced Fluid Mechanics	Dr. Sreeja Pekkat	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CE568	Environmental Management of Water Resources	Prof. Chandan Mahanta	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+CE570	River Engineering	Prof. Subashisa Dutta	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+CE581	Urban Transportation Systems	Prof. Chunchu Mallikarjuna	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CE582	Pavement Materials	Prof. Teiborlang Lyngdoh Ryntathiang	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CE591	Earth System Dynamics	Prof. Chandan Mahanta	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CE592	Exploration Geoscience	Dr. Archana M Nair	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+CE593	Advanced Remote Sensing	Dr. Rishikesh Bharti	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CE598	MTech Project - PhaseI	dppccivil	***	***
+CE601	Numerical Methods	Dr. Suresh Arvindakshan Kartha	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CE602	Optimization Method	Prof. Arbind Kumar Singh	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CE626	Economics Evaluation and Analysis of Transportation Projects	Dr. Akhilesh Kumar Maurya	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CE642	Subsurface Investigation and Instrumentation	Prof. Baleshwar Singh	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CE652	Precision Remote Sensing	Dr. Ajay Dashora	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CE669	Advanced Mathematics for Engineers	Dr. Sandip Das	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CE690	Project and Thesis Phase-I	dppccivil	***	***
+CE692	Project & Thesis PhaseI	dppccivil	***	***
+CE694	MTech Project-I	dppccivil	***	***
+CE696	Project and ThesisPhase - I	dppccivil	***	***
+CE698	MTech Project-I	dppccivil	***	***
+CH001	Preparatory Chemistry (Physical)	Prof. Ashish Kumar Gupta	***	***
+CH101	Chemistry	Dr. Akshai Kumar Alape Seetharam, Prof. Arun Chattopadhyay, Dr. Chandan K. Jana; Coordinator. Dr. Krishna Pada Bhabak.	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+CH110	Chemistry Laboratory	Dr. Dipankar Srimani (ML1), Prof. Subhendu Sekhar Bag (ML1), Dr. Achalkumar Ammathnadu Sudhakar (AL1), Dr. Lal Mohan Kundu (ML2), Dr. Subhas Chandra Pan (ML2), Prof. Sandip Paul (AL2), Prof. Parameswar K Iyer (ML3), Prof. Bhisma Kumar Patel (AL3), Dr. Sunanda Chatterjee (AL3), Prof. Manabendra Ray (ML4), Prof. Anil Kumar Saikia (AL4), Dr. Pavan Kumar Kancharla (AL4), Prof. Gopal Das (ML5), Dr. Debasis Manna (AL5), Dr. Uttam Manna (AL5)	***	***
+CH212	Inorganic Chemistry	Prof. Gopal Das, Prof. Manabendra Ray	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CH221	Organic Chemistry	Dr. Lal Mohan Kundu, Dr. Subhas Chandra Pan	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CH231	Introduction to Quantum Chemistry	Prof. Anumita Paul	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CH301	Environmental Chemistry	Dr. Animesh Das	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CH311	Industrial Chemistry	Dr. Shyam Prosad Biswas, Dr. Chandan Mukherjee	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CH314	Chemical Technology Lab II	Dr. Chandan Mukherjee, Dr. Shyam Prosad Biswas	***	***
+CH331	Chemical Kinetics and Electrochemistry	Dr. Kalyanasis Sahu	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CH401	Modern Chemical Technology	Dr. Debapratim Das	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CH402	Technical Report and Presentation	Dr. Achalkumar Ammathnadu Sudhakar	***	***
+CH410	Chemistry of p-and d-Block Elements	Prof. Jubaraj Bikash Baruah	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CH416	Frontiers of Coordination Chemistry	Prof. Vadivelu Manivannan	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CH420	Principles of Organic Chemistry	Dr. Pavan Kumar Kancharla, Prof. Anil Kumar Saikia	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CH427	Medicinal Chemistry	Prof. Bhubaneswar Mandal	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CH429	Petroleums and Petrochemicals	Prof. Tharmalingam Punniyamurthy	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CH430	Quantum Chemistry	Dr. Manabendra Sarma	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CH431	Group Theory and Spectroscopy	Prof. G Krishnamoorthy	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CH435	Physical Chemistry Laboratory	Dr. Manabendra Sarma, Dr. Kalyan Raidongia	***	***
+CH437	Nano Scale Science and Technology	Prof. Mohammad Qureshi	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CH498	Project - I	Prof. Parameswar K Iyer (Coordinator)	***	***
+CH500	Graduate Seminar	Prof. Sandip Paul	***	***
+CH511	Principles of Bioinorganic Chemistry	Prof. Biplab Mondal	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CH520	Concepts in Organic Synthesis	Prof. Subhendu Sekhar Bag, Dr. Dipankar Srimani	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+CH521	Modern Techniques and Scope of Chemical Biology	Dr. Sunanda Chatterjee, Prof. Bhisma Kumar Patel	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CH530	Classical and Statistical Thermodynamics	Prof. Aditya Narayan Panda	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CH535	Physical Chemistry Laboratory	Dr. Uttam Manna, Dr. Debasis Manna	***	***
+CH601	Physical Methods in Chemistry	Dr. Chivukula Vasudeva Sastri	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CH626	Art in Organic Synthesis	Prof. Abu Taleb Khan	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+CH633	Chemical Application of Group Theory	Dr. Sumana Dutta	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CH642	Applied Inorganic Chemistry	Dr. Kingsuk Mahata	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CL201	Chemical Process Calculation	Prof. Vijayanand S. Moholkar, Dr. Pankaj Tiwari, Prof. Animes Kumar Golder	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CL202	Fluid Mechanics	Dr. Amit Kumar, Dr. R Anandalakshmi, Dr. Raghvendra Gupta	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CL203	Chemical Engineering Thermodynamics	Prof. Chandan Das, Prof. Dipankar Bandypadhyay	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CL204	Heat Transfer	Dr. Senthilmurugan Subbiah, Prof. Sasidhar Gumma	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CL301	Solid and Fluid-Solid Operations	Dr. Anki Reddy Katha	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CL303	Chemical Reaction Engineering I	Prof. N. Selvaraju, Dr. Rajesh Kumar Upadhyay, Dr. Prabu Vairakannu, Dr. Soumen Kumar Maiti	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CL304	Process Equipment Design II	Prof. Mihir Kumar Purkait	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CL306	Mass Transfer Operations II	Prof. Ashok Kumar Dasmahapatra	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+CL312	Heat Transfer Lab	Dr. Amit Kumar, Prof. Prabirkumar Saha	***	***
+CL313	Mass Transfer Lab	Prof. Vaibhav Vasant Goud, Dr. Nageswara Rao Peela	***	***
+CL402	Chemical Process Technology	Prof. Vimal Katiyar	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CL403	Process Equipment Design - III	Prof. Ramagopal V. S. Uppaluri	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CL416	Process Control Lab	Prof. Sasidhar Gumma, Dr. Resmi Suresh M.P	***	***
+CL417	Chemical Reaction Engineering Lab	Prof. Subrata Kumar Majumder, Dr. Prabu Vairakannu	***	***
+CL498	Project I	dupc.chemical	***	***
+CL501	Advanced Transport Phenomena	Prof. Nanda Kishore	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CL502	Computer Aided Numerical Methods	Dr. Prakash Kotecha, Prof. Pallab Ghosh	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CL511	Petroleum Reservoir Engineering	Prof. Tapas Kumar Mandal	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CL512	Petroleum Refinery Engineering	Prof. G. Pugazhenthi	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CL513	Fundamentals of Material Science and Engineering	Dr. Mahuya De	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CL514	Characterization of Materials	Prof. Tamal Banerjee, Prof. Bishnupada Mandal	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CL598	Petroleum Laboratory	Dr. Rajesh Kumar Upadhyay, Dr. Raghvendra Gupta, Dr. Pankaj Tiwari, Prof. Anugrah Singh	***	***
+CL611	Advanced Process Control	Prof. Prabirkumar Saha	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+CL613	Computational Fluid Dynamics	Prof. Anugrah Singh	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CL614	Fluidization Engineering	Prof. Subrata Kumar Majumder	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CL615	Optimization Techniques	Dr. Resmi Suresh M.P	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CL626	Energy Resources	Prof. Vaibhav Vasant Goud	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+CL629	Membranes	Prof. Kaustubha Mohanty	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CL631	Smart Materials	Dr. Partho Sarathi Gooh Pattader	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CL636	Microelectronic Fabrication	Dr. Prasanna Venkatesh Rajaraman	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CL640	Research Methodology and Scientific Writing	Prof. Pallab Ghosh, Prof. Ramagopal V. S. Uppaluri	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+CL641	Process Intensification and Integration	Dr. Nageswara Rao Peela	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+CL698	Project	dppcchemical	***	***
+CS201	Discrete Mathematics	Prof. Sajith Gopalan	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CS203	Algorithms and Data Structures	Dr. Rajasekhar Inkulu	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CS204	Algorithms and Data Structures Laboratory	Dr. Benny George Kenkireth	***	***
+CS205M	Theoretical Foundations of Computer Science	Prof. Diganta Goswami	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+CS221	Digital Design	Dr. Aryabartta Sahu, Dr. Sagarmoy Dutta	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+CS242	System Software Laboratory	Dr. Ashish Anand	***	***
+CS301	Theory of Computation	Dr. Deepanjan Kesh	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+CS321	Computer Peripherals and Interfacing Lab	Prof. Shivashankar B. Nair	***	***
+CS322M	Digital Logic and Computer Architecture	Dr. John Jose	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+CS341	Operating Systems	Dr. Moumita Patra	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CS342	Operating Systems Lab.	Dr. Moumita Patra, Dr. Arnab Sarkar, Dr. Rashmi Dutta Baruah	***	***
+CS343	Data Communication	Dr. Tamarapalli Venkatesh	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CS431	Programming Languages Lab	Dr. Samit Bhattacharya	***	***
+CS441M	Software Engineering	Dr. V Vijaya Saradhi	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+CS461	Computer Graphics	Dr. Pinaki Mitra	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CS462	Graphics Lab	Dr. Pinaki Mitra	***	***
+CS498	Project - I	dupccse	***	***
+CS502	Computational Geometry	Prof. Seela Veerabhadreswara Rao	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+CS512	Design and Analysis of Algorithms	Dr. Sushanta Karmakar	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+CS513	Data Structures Lab	Dr. Chandan Karfa, Dr. Amit Chintamani Awekar	***	***
+CS514	Mathematics for Computer Science	Prof. Purandar Bhaduri	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+CS522	Embedded Systems	Dr. Arnab Sarkar	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+CS525	Formal Methods for System Verification	Prof. Jatindra Kumar Deka	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+CS527	Parallel Computer Architecture	Prof. Hemangee Kalpesh Kapoor	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+CS529	Topics and Tools in Social Media Data Mining	Dr. Sanasam Ranbir Singh	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+CS551	Wireless Networks	Prof. Sukumar Nandi	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+CS566	Speech Processing	Prof. Pradip Kumar Das	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+CS574	Computer Vision Using Machine Learning	Dr. Arijit Sur	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+CS575	User-Centric Mobile Computing	Dr. Tamarapalli Venkatesh, Dr. Samit Bhattacharya	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+CS578	Internet of Things	Dr. Manas Khatua	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+CS591H	Data Structures and Algorithms	Dr. Amit Chintamani Awekar, Dr. Chandan Karfa	***	16Sep,2019(09.00to11.00)
+CS592H	Databases	Dr. V Vijaya Saradhi	***	21Sep,2019(14.00to16.00)
+CS593	Data Structures and Databases Lab	Dr. Chandan Karfa, Dr. V Vijaya Saradhi, Dr. Amit Chintamani Awekar	***	***
+CS594	Python Programming Lab	Dr. V Vijaya Saradhi	***	***
+CS698	Project I	dppccse	***	***
+DD101	Introduction to Design	Ms Shareka Iqbal	***	***
+DD102	Representation Techniques	Mr Nikhileswar Baruah	***	***
+DD103	Elements of Design	Dr. Udaya Kumar Dharmalingam	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+DD104	Applied Science for Design	Ms Sharmistha Banerjee	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+DD105	Tinkering Studio	Mr Pankaj Upadhyay	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+DD201	Form Studies	Ms Shareka Iqbal	***	***
+DD202	Photo & Video Communication	Ms Charu Monga	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+DD203	Materials and Processes	Mr Pankaj Upadhyay	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+DD204	Visual Communication Theory	Ms Sheetal Madhav Gokhale	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+DD205	Ergonomics in Design	Dr. Sougata Karmakar	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+DD210M	Introduction to Design	Prof. Ravi Mokashi Punekar	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+DD301	Interaction Design	Dr. Abhishek Shrivastava	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+DD302	Design Analysis	Dr. Debayan Dhar, Mr Abhishek Singh	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+DD303	Typography and Grid Systems	Mr Nikhileswar Baruah	***	***
+DD304	Tangible Interfaces	Dr. Keyur Babulal Sorathia	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+DD310M	Product Design	Ms Sharmistha Banerjee	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+DD321	Modelling & SImulation Techniques	Mr Supradip Das	***	***
+DD322	Animation Fundamentals	Dr. Manoj Majhi	***	***
+DD401	Design Management	Prof. Pradeep G. Yammiyavar	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+DD402	Design Research and Technical Writing	Dr. Sougata Karmakar, Dr. Urmi Ravindra Salve	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+DD410M	Design Management	Dr. Pratul Chandra Kalita	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+DD497	Design Exhibition Project	Ms Charu Monga	***	***
+DD498	Design Project III	Ms Sheetal Madhav Gokhale	***	***
+DD499	Design Project IV	dupcdes	***	***
+DD501	Design.An Introduction	Ms Shareka Iqbal	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+DD502	Visual Design. Principles and Applications	Prof. Utpal Barua	***	***
+DD503	Ergonomics	Dr. Urmi Ravindra Salve	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+DD504	Design Methods	Dr. Pratul Chandra Kalita	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+DD512	New Media Studies	Mr Mriganka Madhukaillya	21Sep2019(14.00to16.00)	28Nov2019(14.00to17.00)
+DD513	Lighting Design	Ms Shareka Iqbal	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+DD517	Automobile Design	Mr Abhishek Singh	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+DD518	Representation Techniques for Animation	Dr. Manoj Majhi	***	***
+DD530	Cognitive Ergonomics	Dr. Sougata Karmakar	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+DD534	HCI in Virtual Reality	Dr. Keyur Babulal Sorathia	19Sep2019(09.00to11.00)	26Nov2019(09.00to12.00)
+DD601	Usibility Engineering	Dr. Debayan Dhar	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+DD603	Thesis Project (Phase I)	Dr. Abhishek Shrivastava	***	***
+DD606	Product Detailing	Ms Sharmistha Banerjee	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+DD706	Design Semantics	Prof. Ravi Mokashi Punekar	19Sep2019(09.00to11.00)	26Nov2019(09.00to12.00)
+DD707	Research Methodology	Prof. Debkumar Chakrabarti	***	***
+DD709	Design-based Project	Dr. Debayan Dhar	***	***
+DD710	Research based Project	Dr Urmi Ravindra Salve	***	***
+EE101	Basic Electronics	Prof. Sanjay Kumar Bose, Prof. Somanath Majhi, Prof. Shaik Rafi Ahamed, Prof. Samarendra Dandapat	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+EE203	Semiconductor Devices	Dr. Arun Tej Mallajosyula	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+EE204	Circuit Theory	Dr. Kannan Karthik	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+EE205	Principles of Electrical Engineering	Dr. Ravindranath Adda	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+EE210	Digital circuits	Dr. Mahima Arrawatia	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EE211	Digital circuits Laboratory	Rohit Lorenzo, Dr. Rishikesh Dilip Kulkarni	***	***
+EE211M	Analog Circuits	Prof. Harshal Bhalchandra Nemade	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+EE220	Signals and Systems	Dr. Salil Kashyap	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+EE310	Introduction to VLSI Design	Dr. Gaurav Trivedi	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+EE311	VLSI Laboratory	Prof. Harshal Bhalchandra Nemade, Dr. Gaurav Trivedi	***	***
+EE320	Digital Signal Processing	Dr. Hanumant Singh Shekhawat	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+EE330	Digital Communication	Dr. Ribhu	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+EE331	Communication Laboratory	Dr. A. Rajesh, Dr. Salil Kashyap, Dr. Sonali Chouhan	***	***
+EE340M	Electromagnetic Field Theory	Prof Anup Kumar Gogoi	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+EE350	Control Systems	Dr. Srinivasan Krishnaswamy	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+EE380	Electrical Machines	Prof. Praveen Kumar	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+EE381	Electrical Machines Laboratory	Prof. Praveen Kumar	***	***
+EE382	Electrical Power Systems	Dr. Sanjib Ganguly	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+EE424M	Communication Systems	Dr. Sonali Chouhan	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+EE441	Microwave Engineering	Prof. Ratnajit Bhattacharjee	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+EE442	Microwave Engineering Lab.	Dr. Ramesh Kumar Sonkar, Prof. Rakhesh Singh Kshetrimayum	***	***
+EE480	Electrical Power Systems Operation and Control	Dr. Chandan Kumar	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+EE482	Advanced Electrical Engineering Laboratory	Dr. Ravindranath Adda, Dr. Sanjib Ganguly, Dr. Praveen Tripathy	***	***
+EE498	Project I	Dr. Kalpana Dhaka	***	***
+EE499	Project II	dupceee	***	***
+EE510	Semiconductor Device Modeling	Prof. Roy Paily Palathinkal	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+EE511	Semiconductor IC Technology	Prof. Roy Paily Palathinkal, Dr. Arun Tej Mallajosyula	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EE513	VLSI Lab I	Prof. Roy Paily Palathinkal	***	***
+EE514	Digital IC Design	Dr. Gaurav Trivedi	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+EE520	Signal Processing Algorithm and Architecture	Prof. Manas Kamal Bhuyan	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+EE523	Introduction to Machine Learning	Dr. Prithwijit Guha	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EE524	Machine Learning Laboratory	Dr. Prithwijit Guha	***	***
+EE530	Communication System Theory	Dr. Kalpana Dhaka	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EE531	Communication Systems Simulation Lab	Dr. Ribhu	***	***
+EE532	Information and Coding Theory	Dr. Brijesh Kumar Rai	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+EE540	Advance Electromagnetic Theory & Antennas	Prof. Ratnajit Bhattacharjee	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EE542	RF Circuits & Systems	Dr. Mahima Arrawatia	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+EE545	Fiber Optic Systems	Dr. Ramesh Kumar Sonkar	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+EE546	Optical Systems Lab	Dr. Ramesh Kumar Sonkar	***	***
+EE550	Linear Systems Theory	Prof. Chitralekha Mahanta	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+EE551	Estimation and Identification	Dr. Indrani Kar	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+EE552	Applied Control Lab	Prof. Chitralekha Mahanta	***	***
+EE560	Power Electronic Converters	Dr. Shabari Nath	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+EE561	Power Electronics Laboratory	Dr. Chandan Kumar	***	***
+EE570	Modern Power Systems	Dr. Praveen Tripathy	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+EE571	Insulation & High Voltage Engineering	Dr. Sisir Kumar Nayak	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EE590	Linear Algebra and Optimization	Dr. Tony Jacob	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+EE591	Probability and Stochastic Process	Dr. Suresh Sundaram	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+EE610	Fundamental of VLSI CAD	Dr. Gaurav Trivedi	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+EE623	Speech Signal Processing and Coding	Prof. Rohit Sinha	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+EE634	MIMO Wireless Communications. Fundamentals and Advances	Prof. Rakhesh Singh Kshetrimayum	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+EE644	Plasmonics, Nanophotonics and Metamaterials	Dr. Debabrata Sikdar	16Sep,2019((14.00to16.00)	22Nov,2019(14.00to17.00)
+EE646	Optical Measurement Techniques and Applications	Dr. Rishikesh Dilip Kulkarni	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+EE659	Fuzzy Logic and Neural Networks	Prof. Chitralekha Mahanta, Dr. Indrani Kar	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+EE692	Detection and Estimation Theory	Dr. Smarajit Das	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+EE693	Advanced Topics in Random Processes	Prof. Prabin Kumar Bora	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+EE698	Project Phase I	Dr. Sisir Kumar Nayak	***	***
+EN661	Renewable Energy Systems	Dr. Pankaj Kalita	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+EN663	Operation and instrumentation	Dr. Lepakshi Barbora	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+EN672	Energy Storage Systems	Dr. Harsh Chaturvedi	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+EN673	Fundamentals of Energy Engineering	Dr. Pankaj Kalita, Dr. Harsh Chaturvedi	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+EN698	Project 2	dppcenergy	***	***
+HS101	English Communication	Unspecified	 21Sep,2019(14.00to16.00)	 28Nov,2019(14.00to17.00)
+HS102	Introduction to International Politics	Dr. Pahi Saikia	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS221	Language, Culture and Cognition	Dr. Bidisha Som	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+HS231M	Comparative Drama	Prof. Rohini Mokashi Punekar	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+HS245	Introduction to India's Health System	Dr. Daksha Chandu Parmar	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+HS301	Money and Banking	Prof. Saundarjya Borbora	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS305	Human Resource Management	Dr. Nachiketa Tripathi	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS314	Science, Technology and Innovation. Sociological Perspectives	Dr. Sambit Mallick	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS315	Sound Structure of Language and Speech Analysis	Dr. Shakuntala Mahanta	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS316	Public Economics	Dr. Bodhisattva Sengupta	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS321	Psychology of Health and Adjustment	Dr. Dilwar Hussain	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS322	Industrial Organization	Dr. Amarjyoti Mahanta	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS325	Investigating Justice in Detective Fiction	Dr. Debapriya Basu	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS326	Social History of Technology in Modern India	Dr. John Thomas	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS328	Archaeological Studies in Ancient Technology	Dr. Sukanya Sharma	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS331	Development and Its Discontents	Dr. Prasad Khanolkar	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS332	Introduction to the Indian Epics. Ramayana and Mahabharata	Dr. Kiran Keshavamurthy	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS334	Consumer Psychology	Dr. Naveen Kashyap	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS335	Introduction to International Politics	Dr. Pahi Saikia	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+HS501	Essentials of Political Theory	Dr. Prabhu Venkataraman	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+HS512	Critical Development Theory	Prof. Liza Das	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+HS514	Agriculture and Rural Development	Prof. Mrinal Kanti Dutta	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+HS515	Introduction to Economics	Dr. Agnirup Sarkar	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+HS516	The Study of Society	Dr. Sawmya Ray	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+HS519	Economic History of Colonial India	Prof. Arupjyoti Saikia	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+HS520	Environment and Development	Dr. Ngamjahao Kipgen	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+HS522	Quantitative Research Methods in Social Sciences	Dr. Rajshree Bedamatta	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+HS526	Conflict and Financial Diplomacy	Dr. Vipul Dutta	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+HS615	Gandhi. The Man and His Ideas	Dr. Ritwik Ranjan	***	24Nov,2019(09.00to12.00)
+HS618	Modern Political and Social Imaginaries	Dr. Mithilesh Kumar Jha	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+HS620	Political Economy of Agrarian Development	Dr. Debarshi Das	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+HS624	Land, Dispossession and Development	Dr. Vasundhara Jairath	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+HS627	Water Economics	Dr. Anamika Barua	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+HS698	Project Phase 1	dppchss	***	***
+HS705	Growth & Development	Unspecified	***	***
+HS712	Introduction of Western Philosophy	Dr. Shakuntala Mahanta	***	***
+HS723	Methods in Historical Research	Dr. John Thomas, Dr. Vipul Dutta	***	***
+HS726	History of Assam	Prof. Arupjyoti Saikia	***	***
+HS736	Approaches to Prosodic Structure	Dr. Shakuntala Mahanta	***	***
+HS752	Positive Psychology	Dr. Dilwar Hussain	***	***
+HS757	Sociology of Religion	Dr. Ngamjahao Kipgen	***	***
+HS759	Understanding Nations and Nationalism	Unspecified	***	***
+HS765	Theorizing Gender	Dr. Sawmya Ray	***	***
+HS777	Politics of Knowledge Production	Dr. Vasundhara Jairath	***	***
+HS778	Feminist Geographies	Dr. Prasad Khanolkar	***	***
+HS779	Health Policy and Research	Dr. Daksha Chandu Parmar	***	***
+HS830	Thesis Work	dppchss	***	***
+IFST001	Advanced Food Processing	Dr. R Anandalakshmi, Dr. Pankaj Tiwari, Prof. Vaibhav Vasant Goud	***	***
+IFST002	International Joint Exercises in Food Science and Technology-B	Prof. Ramagopal V. S. Uppaluri	***	***
+IFST003	International Joint Global Internship & Seminar-B	Prof. Ramagopal V. S. Uppaluri	***	***
+IFST005	Design Thinking and Scientific Writing	Prof. Pallab Ghosh, Prof. Ramagopal V. S. Uppaluri	***	***
+MA101	Mathematics-I	Dr. Rupam Barman, Dr. Sriparna Bandyopadhyay, Prof. Anupam Saikia, Prof. Jiten Chandra Kalita	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+MA201	Mathematics III	Dr. Sweta Tiwari, Dr. Arup Chattopadhyay, Prof. Durga Charan Dalal, Prof. M. Guru Prem Prasad	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+MA211M	Real Analysis	Unspecified	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+MA221	Discrete Mathematics	Dr. Bikash Bhattacharjya	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+MA222	Elementary Number Theory Algebra	Prof. Kanduru Venkata Krishna	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+MA225	Probability Theory and Random Processes	Dr. Subhamay Saha, Dr. Ayon Ganguly	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+MA251	Data Structures	Dr. Ashok Singh Sairam	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+MA311M	Scientific Computing	Dr. Sudarshan Kumar Kenettinkara	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+MA322	Scientific Computing	Prof. Natesan Srinivasan	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+MA372	Stochastic Calculus for Finance	Dr. Chandan Pal	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+MA411M	Differential Geometry	Dr. Sree Krishna Anantha Sai Palaparthi	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+MA423	Matrix Computations	Prof. Shreemayee Bora	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+MA453	Theory of Computation	Dr. H. Ramesh	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+MA471	Statistical Analysis of Financial Data	Dr. Arabin Kumar Dey	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+MA476	Portfolio Theory and Performance Analysis	Prof. N. Selvaraju	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+MA498	Project-I	Dr. Sagarmoy Dutta	***	***
+MA501	Discrete Mathematics	Prof. Sukanta Pati	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+MA506	Number Theory and Cryptography	Dr. Vinay Vilas Wagh	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+MA511	Computer Programming	Dr. Gautam Kumar Das	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+MA514	Theory of Computation	Prof. Partha Sarathi Mandal	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+MA518	Database Management Systems	Prof. Kalpesh Kapoor	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+MA521	Modern Algebra	Dr. Shyamashree Upadhyay	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+MA522	Linear Algebra	Prof. Prof. Bhaba Kumar Sarma	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+MA541	Real Analysis	Dr. Jitendriya Swain	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+MA543	Functional Analysis	Dr. Rajesh Kumar Srivastava	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+MA549	Topology	Dr. Anjan Kumar Chakrabarty	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+MA563	Calculus of Variations and Optimal Control	Prof. Rajen Kumar Sinha	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+MA572	Numerical Analysis	Dr. Siddhartha Pratim Chakrabarty	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+MA575	Mathematical Methods	Prof. Swaroop Nandan Bora	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+MA579H	Scientific Computing	Prof. Rafikul Alam	***	18Sep,2019(09.00to11.00)
+MA580H	Matrix Computations	Prof. Rafikul Alam	***	18Sep,2019(09.00to11.00)
+MA581	Numerical Computations Lab	Prof. Rafikul Alam, Dr. Bhupen Deka	***	***
+MA589	Statistical Foundations of Data Science	Dr. Palash Ghosh	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+MA625	Linear Algebra -1	Dr. Bikash Bhattacharjya, Prof. Prof. Bhaba Kumar Sarma	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+MA642	Real Analysis -1	Dr. Pratyoosh Kumar	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+MA662	Differential Equations	Dr. Bhupen Deka	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+MA684	Advanced Probability	Dr. Sameer Kamal	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+MA697	Seminar	Dr. Sweta Tiwari	***	***
+MA762	Potential Flow of Fluids & Water Wave Theory	Prof. Swaroop Nandan Bora	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+MA782	Levy Processes	Dr. Sameer Kamal	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+ME110	Workshop	Dr. Pankaj Biswas, Dr. Sukhomay Pal, Prof. Uday Shanker Dixit, Dr. Poonam Kumari, Dr. Prasenjit Khanikar	***	***
+ME211	Thermodynamics	Dr. Pranab Kumar Mondal	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+ME211M	Thermodynamics	Prof. Niranjan Sahoo	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+ME212	Solid Mechanics I	Dr. Nelson Muthu, Prof. Santosha Kumar Dwivedy, Prof. Subramani Kanagaraj	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+ME213	Engineering Materials	Prof. P S Robi, Dr. Sukhomay Pal	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+ME214	Fluid Mechanics - I	Dr. Amaresh Dalal, Dr. Dipankar Narayan Basu	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+ME215	Machine Drawing	Dr. Karuna Kalita, Dr. Sandeep Reddy Basireddy, Dr. Manas Das, Prof. K S R Krishna Murthy	***	***
+ME216	Mechanical Engg Laboratary- I	Prof. Debabrata Chakraborty, Dr. Dr. Niranjan Sahoo, Prof. Subramani Kanagaraj	***	***
+ME311	Fluid Mechanics II	Dr. Arnab Kr. De	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+ME312	Manufacturing Technology II	Dr. Shrikrishna Nandkishor Joshi, Prof. Senthilvelan Selvaraj	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+ME313	Dynamics of Machinery	Dr. Satyajit Panda, Dr. Karuna Kalita	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+ME314	Design of Machine Elements	Dr. Sandeep Reddy Basireddy, Prof. Debabrata Chakraborty	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+ME315	Mechanical Lab II	Dr. Shrikrishna Nandkishor Joshi, Prof. Manmohan Pandey, Dr. Satyajit Panda	***	***
+ME411	Applied Thermodynamics - II	Dr. Dr. Niranjan Sahoo, Dr. Vinayak Narayan Kulkarni	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+ME412	Mechanical Lab IV	Dr. Dibakar Bandopadhya, Prof. Sashindra Kumar Kakoty, Prof. Rajiv Tiwari	***	***
+ME498	Project I	dupcmech	***	***
+ME501	Advanced Engineering Mathematics	Dr. Sachin Singh Gautam, Dr. Atanu Banerjee	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+ME502	Engineering Computing Laboratory	Dr. Sachin Singh Gautam, Dr. Arnab Kr. De, Dr. Atanu Banerjee, Dr. Arup Kumar Nandy, Dr. Deepak Sharma	***	***
+ME510	Subtractive Manufacturing	Dr. Manas Das	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+ME512	Welding and Additive Manufacturing	Dr. Pankaj Biswas	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+ME520	Fluid Mechanics	Dr. Madhusudhana Rao Gavara	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+ME521	Conduction and Radiation	Dr. Amaresh Dalal, Dr. Dipankar Narayan Basu	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+ME523	Advanced Thermodynamics	Prof. Manmohan Pandey	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+ME530	Advanced Mechanics of Solids	Prof. K S R Krishna Murthy	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+ME531	Mechanical Vibrations	Prof. Rajiv Tiwari	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+ME532	Finite Element Methods in Engineering	Dr. Arup Kumar Nandy	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+ME543	Computational Fluid Dynamics	Prof. Anoop Kumar Dass	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+ME550	Introduction to Aerospace Engineering	Prof. Ujjwal Kumar Saha	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+ME551	Aerodynamics	Dr. Bhaskar Kumar	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+ME606	Solidification Processing	Dr. Swarup Bag	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+ME609	Optimization Methods in Engineering	Dr. Deepak Sharma	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+ME620	Fundamentals of Artificial Inteligence	Prof. Shyamanta Moni Hazarika	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+ME621	Refrigeration and Air Conditioning	Prof. P. Muthukumar	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+ME628	Additive Manufacturing Technologies	Dr. Sajan Kapil	15Sep,2019(09.00to11.00)	21Nov,2019(09.00to12.00)
+ME629	Design of Mechatronic Products	Prof. Uday Shanker Dixit	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+ME640	Robotics & Robot Application	Dr. Dibakar Bandopadhya	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+ME659	Tribology of Bearings	Prof. Sashindra Kumar Kakoty	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+ME676	Theory of Plate and Shells	Dr. Poonam Kumari	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+ME678	Mechanics of Sheet Metal Forming	Dr. Ramabadran Ganesh Narayanan	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+ME679	Mechanical Behaviour of Materials	Dr. Prasenjit Khanikar	22Sep,2019(14.00to16.00)	29Nov,2019(14.00to17.00)
+NT601	Nano Device. Fabrication, Productization and Patent Writing	Prof. Dipankar Bandypadhyay, Dr. Partho Sarathi Gooh Pattader	***	***
+NT707	Frontiers in Nonoscience and Nanotechnology	Prof. Tapas Kumar Mandal	***	***
+NT830	Thesis Work	dppcnano	***	***
+PH001	Preparatory Physics-I	Dr. Malay Kumar Nandy	***	***
+PH101	Physics-I	Dr. Tapan Mishra, Dr. Pankaj Kumar Mishra, Dr. Uday Narayan Maiti, Dr. Santabrata Das	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+PH110	Physics Laboratory	Dr. Debasish Borah, Dr. Subhaditya Bhattacharya, Dr. Debaprasad Maity, Prof. Sunil Kumar Khijwania, Dr. Arunansu Sil	***	***
+PH201	Mathematical Physics	Dr. Tarak Nath Dey	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+PH203	Classical Mechanics	Dr. Udit Raha	22Sep,2019(09.00to11.00)	29Nov,2019(09.00to12.00)
+PH205	Semiconductor Devices	Dr. Subhash Thota	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+PH207	Heat and Thermodynamics	Dr. Sovan Chakraborty	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+PH209	Analog Electronics	Prof. Dilip Pal	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+PH211	Electronics Laboratory -I	Prof. Subhradip Ghosh, Dr. Tarak Nath Dey	***	***
+PH281M	Quantum Physics	Prof. Pravat Kumar Giri	21Sep,2019(09.00to11.00)	28Nov,2019(09.00to12.00)
+PH301	Microprocessor Architecture & Programming	Prof. Seenipandian Ravi	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+PH303	Atomic and Molecular Spectroscopy	Prof. Alika Khare	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+PH305	Computational Physics	Dr. Meduri Chakravartula Kumar	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+PH307	Statistical Mechanics	Prof. Girish Sampath Setlur	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+PH311	Electronics Lab II	Prof. Seenipandian Ravi, Prof. A Srinivasan	***	***
+PH401	Mathematical Physics I	Dr. Subhaditya Bhattacharya	20Sep,2019(09.00to11.00)	27Nov,2019(09.00to12.00)
+PH403	Classical Mechanics	Dr. Charudatt Yashwant Kadolkar	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+PH405	Quantum Mechanics I	Dr. Sayan Kumar Chakrabarti	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+PH407	Computer Programming	Prof. Perumal Alagarsamy	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+PH409	Electronics	Prof. Bipul Bhuyan	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+PH411	Electronics Laboratory	Prof. Pratima Agarwal, Prof. Alika Khare	***	***
+PH413	Materials Science & Engineering	Prof. Pratima Agarwal	16Sep,2019(09.00to11.00)	22Nov,2019(09.00to12.00)
+PH415	Lasers & Photonics	Dr. Ashwini Kumar Sharma	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+PH417	Advanced Physics Lab	Prof. Amarendra Kumar Sarma, Dr. Subhash Thota	***	***
+PH444	Nanomaterials and nanoelectronics	Prof. A Srinivasan	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+PH455	Microwave theory and applications	Dr. Kanhaiya Pandey	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+PH462	Quantum technology and phenomena in macroscopic systems	Prof. Amarendra Kumar Sarma	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+PH463	Theory of Relativity	Dr. Bibhas Ranjan Majhi	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+PH498	Project I	dupcphy	***	***
+PH501	Electrodynamics II	Prof. Sunil Kumar Khijwania	20Sep,2019(14.00to16.00)	27Nov,2019(14.00to17.00)
+PH503	Atomic and Molecular Physics	Dr. Soumitra Nandi	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+PH505	Solid State Physics	Dr. Debaprasad Maity	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+PH507	Nuclear and Particle Physics	Dr. Debasish Borah	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+PH511	General Physics Laboratory II	Dr. Charudatt Yashwant Kadolkar, Dr. Gagan Kumar	***	***
+PH512	Measurement Techniques	Dr. Dobbidi Pamu	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+PH552	Image formation in optical systems	Prof. Bosanta Ranjan Boruah	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+PH701	Advanced Condensed Matter Physics	Prof. Saurabh Basu	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+PH703	Quantum Electronics	Dr. Gagan Kumar	17Sep,2019(14.00to16.00)	23Nov,2019(14.00to17.00)
+PH705	Quantum Field Theory and the Standard Model	Dr. Arunansu Sil	18Sep,2019(14.00to16.00)	25Nov,2019(14.00to17.00)
+PH707	Computational Physics	Prof. Padma Kumar Padmanabhan	19Sep,2019(14.00to16.00)	26Nov,2019(14.00to17.00)
+RT501	Livelihood Management and Agro-Technology	Dr. Sudip Mitra, Prof. Rakhi Chaturvedi	19Sep,2019(09.00to11.00)	26Nov,2019(09.00to12.00)
+RT502	Rural Energy	Dr. Pankaj Kalita	18Sep,2019(09.00to11.00)	25Nov,2019(09.00to12.00)
+RT503	Rural Development and Rural Entrepreneurship	Dr. Siddhartha Singha, Prof. Mrinal Kanti Dutta	16Sep,2019(14.00to16.00)	22Nov,2019(14.00to17.00)
+RT504	Water Supply and Sanitation	Dr. Meena Khwairakpam	17Sep,2019(09.00to11.00)	23Nov,2019(09.00to12.00)
+RT510	Research Methodology and Field Work	Dr. Sudip Mitra, Dr. Siddhartha Singha	21Sep,2019(14.00to16.00)	28Nov,2019(14.00to17.00)
+RT691	Project Phase I	dppcrt	***	***

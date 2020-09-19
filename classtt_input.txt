@@ -1,0 +1,1025 @@
+CE302	Civil Engineering	Structural Analysis II	Dr. Kaustubh Dasgupta	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+CE303	Civil Engineering	Geotechnical Engg. II	Dr. Ravi  K
+CE305	Civil Engineering	Reinforced Concrete Design	Prof. Konjengbam Darunkumar Singh	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55,Tuesday-17.0-17.55
+
+CE313	Civil Engineering	Geotechnical Engineering II Lab	Dr. Ravi  K, Dr. Anil Kumar Mishra	Tuesday-9.0-10.55,Monday-9.0-10.55
+
+CE202	Civil Engineering	Solid Mechanics	Dr. Hrishikesh Sharma	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55,Tuesday-8.0-8.55
+CE203	Civil Engineering	Fluid Mechanics	Prof. Gautam Barua	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+CE211	Civil Engineering	Civil Engineering Materials	Dr. Indu Siva Ranjani Gandhi	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CE212	Civil Engineering	Civil Engineering Materials Laboratory	Dr. Indu Siva Ranjani Gandhi, Prof. Bulu Pradhan
+CE214	Civil Engineering	Fluid Mechanics Lab	Prof. Rajib Kumar Bhattacharjya	Sunday-18.0-18.30
+
+CE304	Civil Engineering	Transportation Engg. I	Prof. Rajan Choudhary	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CE314	Civil Engineering	Transportation Engineering I Lab	Prof. Rajan Choudhary	Sunday-18.0-18.30
+
+CE316	Civil Engineering	Environmental Engineering II	Prof. Pranab Kumar Ghosh	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+CE402	Civil Engineering	Design Project	Prof. Konjengbam Darunkumar Singh	Sunday-18.0-18.30
+
+CE598	Civil Engineering	MTech Project– PhaseI	dppccivil	Sunday-18.0-18.30
+
+CE694	Civil Engineering	MTech Project-I	dppccivil	Sunday-18.0-18.30
+
+CE549	Civil Engineering	Project and Thesis Phase-I	dppccivil	Sunday-18.0-18.30
+
+CE698	Civil Engineering	MTech Project-I	dppccivil	Sunday-18.0-18.30
+
+CE527	Civil Engineering	Design of Environmental Engineering Systems	Prof. Saswati Chakraborty	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CE690	Civil Engineering	Project and Thesis Phase-I	dppccivil	Sunday-18.0-18.30
+
+CE692	Civil Engineering	Project & Thesis PhaseI	dppccivil	Sunday-18.0-18.30
+
+CE696	Civil Engineering	Project and ThesisPhase -I	dppccivil	Sunday-18.0-18.30
+
+CE498	Civil Engineering	Project	dupccivil
+CE101	Civil Engineering	Engineering Drawing	Dr. Arindam, Dr. Sajan Kapil, Dr. Anjan Kumar Siddagangaiah, Dr. Tadikonda Venkata Bharat, Dr. Vinayak Narayan Kulkarni	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CE207	Civil Engineering	Engineering Geology	Dr. Rishikesh  Bharti, Dr. Archana M Nair	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+CE28	Civil Engineering	Engineering Geology Lab	Dr. Rishikesh  Bharti, Dr. Archana M Nair	Tuesday-14.0-15.55,Thursday-14.0-15.55
+
+CE415	Civil Engineering	Prestressed Concrete and Industrial Structures	Prof. Sajal  Kanti Deb	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CE416	Civil Engineering	Bridge Engineering	Prof. Sudip Talukdar	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+CE502	Civil Engineering	Finite Element Methods	Prof. Anjan Dutta	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+CE503	Civil Engineering	Structural Dynamics	Dr. Arunasis Chakraborty	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CE513	Civil Engineering	Statistical Methods In Civil Engineering	Dr. Budhaditya  Hazra	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CE445	Civil Engineering	Solid Waste Engineeing	Prof. Ajay Kalamdhad	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+CE601	Civil Engineering	Numerical Methods	Dr. Suresh Arvindakshan Kartha	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CE501	Civil Engineering	Continuum Mechanics	Dr. Amit  Balasaheb Shelke	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CE602	Civil Engineering	Optimization Method	Prof. Arbind  Kumar Singh	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CE669	Civil Engineering	Advanced Mathematics for Engineers	Dr. Sandip  Das	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CE532	Civil Engineering	Dynamics of Soil and Foundations	Dr. Abhishek  Kumar	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55,Tuesday-17.0-17.55
+
+CE551	Civil Engineering	Surface Water Hydrology	Prof. Arup  Kumar Sarma	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CE553	Civil Engineering	Advanced Hydraulic Engineering	Dr. Bimlesh Kumar	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CE554	Civil Engineering	Advanced Fluid Mechanics	Dr. Sreeja Pekkat	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+CE568	Civil Engineering	Environmental Management of Water Resources	Prof. Chandan Mahanta	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+CE570	Civil Engineering	River Engineering	Prof. Subashisa Dutta	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CE652	Civil Engineering	Precision Remote Sensing	Dr. Ajay  Dashora	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+CE541	Civil Engineering	Infrastructure Planning	Dr. Laishram Boeing Singh	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CE542	Civil Engineering	Project Management in Construction	Dr. Laishram Boeing Singh	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CE543	Civil Engineering	Construction Methods and Equipment Management	Prof. Bulu Pradhan	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CE591	Civil Engineering	Earth System Dynamics	Prof. Chandan Mahanta	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CE592	Civil Engineering	Exploration Geoscience	Dr. Archana M Nair	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CE593	Civil Engineering	Advanced Remote Sensing	Dr. Rishikesh  Bharti	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+CE642	Civil Engineering	Subsurface Investigation and Instrumentation	Prof. Baleshwar Singh	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+CE581	Civil Engineering	Urban Transportation Systems	Prof. Chunchu Mallikarjuna	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CE582	Civil Engineering	Pavement Materials	Prof. Teiborlang Lyngdoh Ryntathiang	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CE626	Civil Engineering	Economics Evaluation and Analysis of Transportation Projects	Dr. Akhilesh Kumar Maurya	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CE521	Civil Engineering	Process Chemistry for Water and Wastewater Treatment	Prof. Saswati Chakraborty	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CE522	Civil Engineering	Physico-chemical Processes in Environmental Engineering	Prof. Mohammad Jawed	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CE523	Civil Engineering	Air and Noise Pollution	Prof. Sharad Bhaurao Gokhale	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CE531	Civil Engineering	Advanced Soil Mechanics	Prof. Sreedeep Sekharan	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+
+CE512	Civil Engineering	Structural Engineering Laboratory	Prof. Hemant B. Kaushik	Sunday-18.0-18.30
+
+ME311	Mechanical Engineering	Fluid Mechanics II	Dr. Arnab Kr. De	Tuesday-12.0-12.55,Thursday-12.0-12.55,Friday-17.0-17.55
+
+ME312	Mechanical Engineering	Manufacturing Technology II	Prof. Senthilvelan  Selvaraj, Dr. Shrikrishna Nandkishor Joshi	Monday-15.0-15.55,Friday-16.0-16.55,Thursday-17.0-17.55
+
+ME313	Mechanical Engineering	Dynamics of Machinery	Dr. Karuna  Kalita, Dr. Satyajit Panda	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+ME314	Mechanical Engineering	Design of Machine Elements	Prof. Debabrata Chakraborty, Dr. Sandeep Reddy Basireddy	Monday-17.0-17.55,Tuesday-16.0-16.55,Wednesday-15.0-15.55
+
+ME315	Mechanical Engineering	Mechanical Lab II	Dr. Satyajit Panda, Dr. Shrikrishna Nandkishor Joshi, Prof. Manmohan Pandey	Monday-9.0-11.55,Wednesday-9.0-11.55
+
+ME211	Mechanical Engineering	Thermodynamics	Dr. Pranab Kumar Mondal	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+ME212	Mechanical Engineering	Solid Mechanics I	Prof. Subramani Kanagaraj, Dr. Nelson  Muthu, Prof. Santosha Kumar Dwivedy	Tuesday-16.0-16.55,Wednesday-16.0-16.55,Thursday-16.0-16.55
+
+ME213	Mechanical Engineering	Engineering Materials	Dr. Sukhomay  Pal, Prof. P S Robi	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+ME215	Mechanical Engineering	Machine Drawing	Dr. Sandeep Reddy Basireddy, Prof. K S R Krishna Murthy, Dr. Manas Das, Dr. Karuna  Kalita	Monday-14.0-16.55,Friday-14.0-16.55
+
+ME216	Mechanical Engineering	Mechanical Engg Laboratary-I	Dr. Dr. Niranjan Sahoo, Prof. Subramani Kanagaraj, Prof.
+ME411	Mechanical Engineering	Applied Thermodynamics -II	Dr. Vinayak Narayan Kulkarni, Dr. Dr. Niranjan Sahoo	Wednesday-9.0-9.55,Friday-11.0-11.55,Thursday-8.0-8.55
+
+ME412	Mechanical Engineering	Mechanical Lab IV	Prof. Rajiv Tiwari, Prof. Sashindra  Kumar Kakoty, Dr. Dibakar Bandopadhya	Tuesday-14.0-16.55,Wednesday-14.0-16.55
+
+ME214	Mechanical Engineering	Fluid Mechanics – I	Dr. Amaresh Dalal, Dr. Dipankar Narayan Basu	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+ME498	Mechanical Engineering	Project I	dupcmech	Sunday-18.0-18.30
+
+ME110	Mechanical Engineering	Workshop	Dr. Prasenjit   Khanikar, Dr. Sukhomay  Pal, Dr. Poonam Kumari, Prof. Uday Shanker	Monday-14.0-16.55,Tuesday-14.0-16.55,Wednesday-14.0-16.55,Thursday-14.0-16.55,Friday-14.0-16.55
+			Dixit, Dr. Pankaj   Biswas
+ME501	Mechanical Engineering	Advanced Engineering Mathematics	Dr. Atanu Banerjee, Dr. Sachin Singh Gautam	Wednesday-9.0-9.55,Friday-11.0-11.55,Thursday-8.0-8.55
+
+ME502	Mechanical Engineering	Engineering Computing Laboratory	Dr. Arnab Kr. De, Dr. Deepak Sharma, Dr. Sachin  Singh Gautam, Dr. Arup Kumar Nandy,
+ME512	Mechanical Engineering	Welding and Additive Manufacturing	Dr. Pankaj   Biswas	Monday-17.0-17.55,Tuesday-16.0-16.55,Wednesday-15.0-15.55
+
+ME543	Mechanical Engineering	Computational Fluid Dynamics	Prof. Anoop Kumar Dass	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-11.0-11.55
+
+ME510	Mechanical Engineering	Subtractive Manufacturing	Dr. Manas Das	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+ME531	Mechanical Engineering	Mechanical Vibrations	Prof. Rajiv Tiwari	Thursday-10.0-10.55,Tuesday-12.0-12.55,Friday-9.0-9.55
+
+ME520	Mechanical Engineering	Fluid Mechanics	Dr. Madhusudhana Rao Gavara	Monday-17.0-17.55,Friday-17.0-17.55,Tuesday-17.0-17.55
+
+ME523	Mechanical Engineering	Advanced Thermodynamics	Prof. Manmohan Pandey	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55,Sunday-18.0-18.30
+
+ME530	Mechanical Engineering	Advanced Mechanics of Solids	Prof. K S R Krishna Murthy	Monday-17.0-17.55,Friday-17.0-17.55,Tuesday-17.0-17.55
+
+ME521	Mechanical Engineering	Conduction and Radiation	Dr. Dipankar Narayan Basu, Dr. Amaresh Dalal	Thursday-16.0-16.55,Monday-15.0-15.55,Friday-16.0-16.55
+
+ME551	Mechanical Engineering	Aerodynamics	Dr. Bhaskar Kumar	Thursday-16.0-16.55,Monday-15.0-15.55,Friday-16.0-16.55
+
+ME628	Mechanical Engineering	Additive Manufacturing Technologies	Dr. Sajan Kapil	Monday-15.0-15.55,Friday-16.0-16.55,Thursday-16.0-17.55
+
+ME679	Mechanical Engineering	Mechanical Behaviour of Materials	Dr. Prasenjit   Khanikar	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-11.0-11.55
+
+ME550	Mechanical Engineering	Introduction to Aerospace Engineering	Prof. Ujjwal Kumar Saha	Thursday-10.0-10.55,Tuesday-12.0-12.55,Friday-9.0-9.55
+
+ME659	Mechanical Engineering	Tribology of Bearings	Prof. Sashindra  Kumar Kakoty	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+ME640	Mechanical Engineering	Robotics & Robot Application	Dr. Dibakar Bandopadhya	Thursday-12.0-12.55,Friday-15.0-15.55,Wednesday-8.0-8.55
+
+ME532	Mechanical Engineering	Finite Element Methods in Engineering	Dr. Arup Kumar Nandy	Thursday-15.0-15.55,Friday-14.0-14.55,Monday-16.0-16.55
+
+ME606	Mechanical Engineering	Solidification Processing	Dr. Swarup Bag	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+ME678	Mechanical Engineering	Mechanics of Sheet Metal Forming	Dr. Ramabadran Ganesh Narayanan	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-11.0-11.55
+
+ME620	Mechanical Engineering	Fundamentals of Artificial Inteligence	Prof. Shyamanta Moni Hazarika	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+ME629	Mechanical Engineering	Design of Mechatronic Products	Prof. Uday Shanker Dixit	Monday-8.0-10.55,Tuesday-8.0-10.55
+
+ME69	Mechanical Engineering	Optimization Methods in Engineering	Dr. Deepak Sharma	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+ME621	Mechanical Engineering	Refrigeration and Air Conditioning	Prof. P.  Muthukumar	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+ME676	Mechanical Engineering	Theory of Plate and Shells	Dr. Poonam Kumari	Thursday-12.0-12.55,Friday-15.0-15.55,Wednesday-8.0-8.55
+
+ME698	Mechanical Engineering	Project Phase 1	dppcmech	Sunday-18.0-18.30
+
+ME211M	Mechanical Engineering	Thermodynamics	Prof. Rohini Mokashi Punekar	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+CS301	Computer Science and Engineering	Theory of Computation	Dr. Deepanjan Kesh	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+CS341	Computer Science and Engineering	Operating Systems	Dr. Moumita Patra	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CS343	Computer Science and Engineering	Data Communication	Dr. Tamarapalli Venkatesh	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+CS321	Computer Science and Engineering	Computer Peripherals and Interfacing Lab	Prof. Shivashankar B. Nair	Tuesday-9.0-11.55
+
+CS342	Computer Science and Engineering	Operating Systems Lab.	Dr. Rashmi Dutta Baruah, Dr. Arnab   Sarkar, Dr. Moumita Patra	Wednesday-9.0-11.55
+
+CS221	Computer Science and Engineering	Digital Design	Dr. Aryabartta Sahu, Dr. Sagarmoy Dutta	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CS201	Computer Science and Engineering	Discrete Mathematics	Prof. Sajith Gopalan	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CS204	Computer Science and Engineering	Algorithms and Data Structures Laboratory	Dr. Benny George Kenkireth	Monday-14.0-16.55
+
+CS203	Computer Science and Engineering	Algorithms and Data Structures	Dr. Rajasekhar Inkulu	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CS242	Computer Science and Engineering	System Software Laboratory	Dr. Ashish  Anand	Wednesday-14.0-16.55
+
+CS431	Computer Science and Engineering	Programming Languages Lab	Dr. Samit Bhattacharya	Tuesday-19.01-20.30
+
+CS461	Computer Science and Engineering	Computer Graphics	Dr. Pinaki Mitra	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CS462	Computer Science and Engineering	Graphics Lab	Dr. Pinaki Mitra	Wednesday-18.0-20.0
+
+CS498	Computer Science and Engineering	Project -I	dupccse	Sunday-18.0-18.30
+
+CS698	Computer Science and Engineering	Project I	dppccse	Sunday-18.0-18.30
+
+CS205M	Computer Science and Engineering	Theoretical Foundations of Computer Science	Prof. Diganta Goswami	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CS322M	Computer Science and Engineering	Digital Logic and Computer Architecture	Dr. John  Jose	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CS441M	Computer Science and Engineering	Software Engineering	Dr. V Vijaya Saradhi	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+CS512	Computer Science and Engineering	Design and Analysis of Algorithms	Dr. Sushanta Karmakar	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CS514	Computer Science and Engineering	Mathematics for Computer Science	Prof. Purandar Bhaduri	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CS566	Computer Science and Engineering	Speech Processing	Prof. Pradip Kumar Das	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+CS574	Computer Science and Engineering	Computer Vision Using Machine Learning	Dr. Arijit  Sur	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+CS529	Computer Science and Engineering	Topics and Tools in Social Media Data Mining	Dr. Sanasam Ranbir Singh	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+CS502	Computer Science and Engineering	Computational Geometry	Prof. Seela Veerabhadreswara Rao	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CS522	Computer Science and Engineering	Embedded Systems	Dr. Arnab   Sarkar	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CS525	Computer Science and Engineering	Formal Methods for System Verification	Prof. Jatindra Kumar Deka	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CS551	Computer Science and Engineering	Wireless Networks	Prof. Sukumar Nandi	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CS575	Computer Science and Engineering	User-Centric Mobile Computing	Dr. Tamarapalli Venkatesh, Dr. Samit Bhattacharya	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+CS513	Computer Science and Engineering	Data Structures Lab	Dr. Chandan  Karfa, Dr. Amit Chintamani Awekar	Monday-14.0-16.55
+
+CS591H	Computer Science and Engineering	Data Structures and Algorithms	Dr. Amit Chintamani Awekar, Dr. Chandan  Karfa	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+CS592H	Computer Science and Engineering	Databases	Dr. V Vijaya Saradhi	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+CS593	Computer Science and Engineering	Data Structures and Databases Lab	Dr. Chandan  Karfa, Dr. Amit Chintamani Awekar, Dr. V Vijaya	Tuesday-14.0-16.0
+CS594	Computer Science and Engineering	Python Programming Lab	Dr. V Vijaya Saradhi	Thursday-14.0-16.55
+
+CS578	Computer Science and Engineering	Internet of Things	Dr. Manas Khatua	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+CS527	Computer Science and Engineering	Parallel Computer Architecture	Prof. Hemangee Kalpesh Kapoor	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+DD301	Design	Interaction Design	Dr. Abhishek Shrivastava	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+DD302	Design	Design Analysis	Dr. Debayan  Dhar, Mr Abhishek Singh	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+DD303	Design	Typography and Grid Systems	Mr Nikhileswar Baruah	Sunday-18.0-18.30
+
+DD304	Design	Tangible Interfaces	Dr. Keyur Babulal Sorathia	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+DD201	Design	Form Studies	Ms Shareka Iqbal	Sunday-18.0-18.30
+
+DD202	Design	Photo & Video Communication	Ms Charu  Monga	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+DD203	Design	Materials and Processes	Mr Pankaj Upadhyay	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+DD204	Design	Visual Communication Theory	Ms Sheetal Madhav Gokhale	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+DD205	Design	Ergonomics in Design	Dr. Sougata Karmakar	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+DD321	Design	Modelling & SImulation Techniques	Mr Supradip  Das	Sunday-18.0-18.30
+
+DD322	Design	Animation Fundamentals	Dr. Manoj Majhi	Sunday-18.0-18.30
+
+DD401	Design	Design Management	Prof. Pradeep G. Yammiyavar	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+DD402	Design	Design Research and Technical Writing	Dr. Urmi  Ravindra Salve, Dr. Sougata Karmakar	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55,Tuesday-8.0-8.55
+DD498	Design	Design Project III	Ms Sheetal Madhav Gokhale	Sunday-18.0-18.30
+
+DD104	Design	Applied Science for Design	Ms Sharmistha Banerjee	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+DD105	Design	Tinkering Studio	Mr Pankaj Upadhyay	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+DD210M	Design	Introduction to Design	Prof. Ravi Mokashi Punekar	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+DD103	Design	Elements of Design	Dr. Udaya Kumar Dharmalingam	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+DD310M	Design	Product Design	Ms Sharmistha Banerjee	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+DD501	Design	Design.An Introduction	Ms Shareka Iqbal	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+DD502	Design	Visual Design. Principles and Applications	Prof. Utpal Barua	Sunday-18.0-18.30
+
+DD503	Design	Ergonomics	Dr. Urmi  Ravindra Salve	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+DD504	Design	Design Methods	Dr. Pratul Chandra Kalita	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+DD603	Design	Thesis Project (Phase I)	Dr. Abhishek Shrivastava	Sunday-18.0-18.30
+
+DD513	Design	Lighting Design	Ms Shareka Iqbal	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+DD517	Design	Automobile Design	Mr Abhishek  Singh	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55,Wednesday-8.0-8.55
+
+DD518	Design	Representation Techniques for Animation	Dr. Manoj Majhi
+DD512	Design	New Media Studies	Mr Mriganka Madhukaillya	Monday-14.0-16.55,Tuesday-14.0-16.55
+
+DD601	Design	Usibility Engineering	Dr. Debayan  Dhar	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+DD530	Design	Cognitive Ergonomics	Dr. Sougata Karmakar	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+DD410M	Design	Design Management	Dr. Pratul Chandra Kalita	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+DD79	Design	Design-based Project	Dr. Debayan  Dhar
+DD102	Design	Representation Techniques	Mr Nikhileswar Baruah	Sunday-18.0-18.30
+
+DD101	Design	Introduction to Design	Ms Shareka Iqbal	Sunday-18.0-18.30
+
+DD606	Design	Product Detailing	Ms Sharmistha Banerjee	Wednesday-15.0-16.55
+
+DD707	Design	Research Methodology	Dr. Debayan  Dhar
+
+BT301	Biosciences and Bioengineering	Bioinformatics and Computational Biology	Dr. Anand Baskaran, Dr. Shankar Prasad Kanaujia	Monday-17.0-17.55,Tuesday-16.0-16.55
+
+BT303	Biosciences and Bioengineering	Immunology	Dr. Sachin Kumar	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+BT39	Biosciences and Bioengineering	Plant Biotechnology	Prof. Lingaraj Sahoo, Prof. Rakhi Chaturvedi	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+BT380	Biosciences and Bioengineering	Molecular Biotechnology Laboratory	Prof. Veeranki Venkata Dasu, Prof. Gurvinder Kaur Saini	Friday-9.0-11.55,Thursday-9.0-11.55
+
+BT310	Biosciences and Bioengineering	Bioinformatics and Computational Biology Lab	Dr. Anand Baskaran, Dr. Shankar Prasad Kanaujia	Tuesday-9.0-11.55,Monday-9.0-11.55
+
+BT201	Biosciences and Bioengineering	Biochemical Process Calculations	Dr. Senthilkumar Sivaprakasam, Prof. Debasish Das	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+BT202	Biosciences and Bioengineering	Bio-thermodynamics	Prof. N.  Selvaraju, Dr. Priyadarshi Satpati	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+BT203	Biosciences and Bioengineering	Biochemistry	Prof. Latha Rangan, Prof. Rajaram Swaminathan	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+BT204	Biosciences and Bioengineering	Genetics	Dr. Ajaikumar Bahulayan Kunnumakkara, Dr. Bithiah Grace Jaganathan	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+BT205	Biosciences and Bioengineering	Cell and Molecular Biology	Dr. Kusum Kumari Singh, Prof. Siddhartha Sankar Ghosh	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+BT404	Biosciences and Bioengineering	Bioseparation Engineering	Prof. Pranab Goswami	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+BT405	Biosciences and Bioengineering	Environmental Biotechnology	Prof. Aiyagari Ramesh	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+BT600	Biosciences and Bioengineering	M.Tech Semesterinar	Prof. Vishal Trivedi
+BT309	Plant Biotechnology		NA		Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+BT501	Biosciences and Bioengineering	Biotechniques	Dr. Vibin Ramakrishnan, Dr. Nitin Chaudhary	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+BT503	Biosciences and Bioengineering	Advanced Genetic Engineering	Prof. Utpal Bora	Wednesday-17.0-17.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+BT510	Biosciences and Bioengineering	Analytical Biotechnology Lab	Dr. Pranjal  Chandra, Prof. Vishal Trivedi, Dr. Kusum Kumari Singh	Monday-14.0-16.55,Tuesday-14.0-16.55
+
+BT612	Biosciences and Bioengineering	Systems Biology	Dr. Biplab Bose	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+BT618	Biosciences and Bioengineering	Biomaterials	Dr. Biman  Behari Mandal	Thursday-12.0-13.25,Tuesday-12.0-13.25
+
+BT629	Biosciences and Bioengineering	Metagenomics	Prof. Sanjukta Patra	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+BT631	Biosciences and Bioengineering	Protein Structure and Function	Prof. Arun Goyal	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+BT633	Biosciences and Bioengineering	Human Biology and Diseases	Dr. Anil Mukund Limaye, Dr. Manish Kumar	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+BT640	Biosciences and Bioengineering	Neural Imaging And Signal Systems	Dr. Cota Navin Gupta	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+BT301M	Biosciences and Bioengineering	Cellular Biotechnology	Dr. Rajkumar Parshottambhai Thummer, Dr. Shirisha  Nagotu	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+BT615	Biosciences and Bioengineering	Cell Signalling and Development	Prof. Ranjan Tamuli	Monday-17.0-17.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+BT643	Biosciences and Bioengineering	Biointerface Engineering	Dr. Lalit  Mohan Pandey	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+BT698	Biosciences and Bioengineering	M. Tech Project I (MTP I)	dppcbio	Sunday-18.0-18.30
+
+BT498	Biosciences and Bioengineering	Project I	dupcbio	Sunday-18.0-18.30
+
+BT830	Biosciences and Bioengineering	Thesis Work	dppcbio	Sunday-18.0-18.30
+
+CS321	Computer Peripherals and Interfacing Lab(0-1-3-5)	SBN	Tuesday-9.0-11.55,Wedneday-12.0-12.55
+
+CL301	Chemical  Engineering	Solid and Fluid-Solid Operations	Dr. Anki  Reddy Katha	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CL303	Chemical  Engineering	Chemical Reaction Engineering I	Dr. Soumen  Kumar Maiti, Prof. N.  Selvaraju, Dr. Rajesh Kumar Upadhyay, Dr. Prabu  Vairakannu	Wednesday-17.0-17.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CL304	Chemical  Engineering	Process Equipment Design II	Prof. Mihir Kumar Purkait	Tuesday-9.0-11.55,Monday-15.0-15.55
+
+CL306	Chemical  Engineering	Mass Transfer Operations II	Prof. Ashok Kumar Dasmahapatra	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+CL312	Chemical  Engineering	Heat Transfer Lab	Dr. Amit  Kumar, Prof. Prabirkumar Saha	Monday-9.0-11.55
+
+CL313	Chemical  Engineering	Mass Transfer Lab	Dr. Nageswara Rao Peela, Prof. Vaibhav Vasant Goud	Wednesday-9.0-11.55
+
+CL201	Chemical  Engineering	Chemical Process Calculation	Prof. Animes Kumar Golder, Prof. Vijayanand S. Moholkar, Dr. Pankaj Tiwari	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CL202	Chemical  Engineering	Fluid Mechanics	Dr. Raghvendra   Gupta, Dr. Amit Kumar, Dr. R  Anandalakshmi	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CL203	Chemical  Engineering	Chemical Engineering Thermodynamics	Prof. Chandan Das, Prof. Dipankar Bandypadhyay	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55,Wednesday-8.0-8.55
+
+CL204	Chemical  Engineering	Heat Transfer	Prof. Sasidhar Gumma, Dr. Senthilmurugan Subbiah	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CL402	Chemical  Engineering	Chemical Process Technology	Prof. Vimal Katiyar	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CL403	Chemical  Engineering	Process Equipment Design -III	Prof. Ramagopal V. S. Uppaluri	Monday-10.0-10.55,Tuesday-11.0-11.55,Thursday-15.0-15.55,Thursday-16.0-16.55
+
+CL416	Chemical  Engineering	Process Control Lab	Prof. Sasidhar Gumma, Dr. Resmi Suresh M.P	Wednesday-14.0-16.55
+
+CL417	Chemical  Engineering	Chemical Reaction Engineering Lab	Dr. Prabu  Vairakannu, Prof. Subrata Kumar Majumder	Monday-14.0-16.55
+
+CL498	Chemical  Engineering	Project I	dupc.chemical	Sunday-18.0-18.30
+
+CL501	Chemical  Engineering	Advanced Transport Phenomena	Prof. Nanda  Kishore	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+CL502	Chemical  Engineering	Computer Aided Numerical Methods	Prof. Pallab Ghosh, Dr. Prakash Kotecha	Thursday-10.0-10.55,Wednesday-9.0-9.55,Wednesday-15.0-16.55
+
+CL511	Chemical  Engineering	Petroleum Reservoir Engineering	Prof. Tapas Kumar Mandal	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CL512	Chemical  Engineering	Petroleum Refinery Engineering	Prof. G.   Pugazhenthi	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CL513	Chemical  Engineering	Fundamentals of Material Science and Engineering	Dr. Mahuya  De	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CL514	Chemical  Engineering	Characterization of Materials	Prof. Tamal Banerjee, Prof. Bishnupada Mandal	Wednesday-10.0-10.55,Tuesday-9.0-9.55,Tuesday-15.0-16.55
+
+CL611	Chemical  Engineering	Advanced Process Control	Prof. Prabirkumar Saha	Thursday-12.0-13.25,Tuesday-12.0-13.25
+
+CL613	Chemical  Engineering	Computational Fluid Dynamics	Prof. Anugrah Singh	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CL614	Chemical  Engineering	Fluidization Engineering	Prof. Subrata Kumar Majumder	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+CL615	Chemical  Engineering	Optimization Techniques	Dr. Resmi Suresh M.P	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+CL626	Chemical  Engineering	Energy Resources	Prof. Vaibhav Vasant Goud	Thursday-12.0-13.25,Tuesday-12.0-13.25
+
+CL629	Chemical  Engineering	Membranes	Prof. Kaustubha Mohanty	Monday-17.0-18.25,Wednesday-17.0-18.25
+
+CL631	Chemical  Engineering	Smart Materials	Dr. Partho Sarathi Gooh Pattader	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CL636	Chemical  Engineering	Microelectronic Fabrication	Dr. Prasanna Venkatesh Rajaraman	Monday-17.0-18.25,Wednesday-17.0-18.25
+
+CL640	Chemical  Engineering	Research Methodology and Scientific Writing	Prof. Pallab Ghosh, Prof. Ramagopal V. S. Uppaluri	Wednesday-8.0-8.55,Monday-8.0-8.55,Friday-8.0-8.55
+
+CL641	Chemical  Engineering	Process Intensification and Integration	Dr. Nageswara Rao Peela	Thursday-12.0-13.25,Tuesday-12.0-13.25
+
+CL598	Chemical  Engineering	Petroleum Laboratory	Dr. Rajesh Kumar Upadhyay, Dr. Raghvendra   Gupta, Prof. Anugrah Singh, Dr. Pankaj Tiwari	Tuesday-16.0-16.55,Monday-14.0-16.55,Tuesday-15.0-15.55
+
+CL698	Chemical  Engineering	Project	dppcchemical	Sunday-18.0-18.30
+
+EE310	Electronics and Electrical Engineering	Introduction to VLSI Design	Dr. Gaurav Trivedi	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+EE320	Electronics and Electrical Engineering	Digital Signal Processing	Dr. Hanumant  Singh Shekhawat	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+EE330	Electronics and Electrical Engineering	Digital Communication	Dr. Ribhu	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+EE350	Electronics and Electrical Engineering	Control Systems	Dr. Srinivasan Krishnaswamy	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+EE311	Electronics and Electrical Engineering	VLSI Laboratory	Dr. Gaurav Trivedi, Prof. Harshal Bhalchandra Nemade	Thursday-9.0-11.55
+
+EE331	Electronics and Electrical Engineering	Communication Laboratory	Dr. Salil Kashyap, Dr. A.  Rajesh, Dr. Sonali Chouhan	Friday-9.0-11.55,Tuesday-9.0-11.55,Monday-9.0-11.55
+
+EE380	Electronics and Electrical Engineering	Electrical Machines	Prof. Praveen Kumar	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+EE203	Electronics and Electrical Engineering	Semestericonductor Devices	Dr. Arun Tej Mallajosyula	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+EE204	Electronics and Electrical Engineering	Circuit Theory	Dr. Kannan Karthik	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55,Friday-8.0-8.55
+
+EE210	Electronics and Electrical Engineering	Digital circuits	Dr. Mahima Arrawatia	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+EE211	Electronics and Electrical	Digital circuits Laboratory	Rohit Lorenzo, Dr. Rishikesh Dilip	Tuesday-14.0-16.55,Thursday-14.0-16.55,Friday-14.0-16.55
+	Engineering		Kulkarni
+EE220	Electronics and Electrical Engineering	Signals and Systems	Dr. Salil Kashyap	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55,Tuesday-8.0-8.55
+
+EE205	Electronics and Electrical Engineering	Principles of Electrical Engineering	Dr. Ravindranath Adda	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55,Friday-8.0-8.55
+
+EE381	Electronics and Electrical Engineering	Electrical Machines Laboratory	Dr. Shabari   Nath, Prof. Praveen Kumar	Thursday-9.0-11.55,Wednesday-9.0-11.55
+
+EE382	Electronics and Electrical Engineering	Electrical Power Systems	Dr. Sanjib Ganguly	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+EE441	Electronics and Electrical Engineering	Microwave Engineering	Prof. Ratnajit Bhattacharjee	Monday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+EE442	Electronics and Electrical Engineering	Microwave Engineering Lab.	Prof. Rakhesh  Singh Kshetrimayum, Dr. Ramesh Kumar Sonkar	Thursday-9.0-11.55,Wednesday-14.0-16.55
+
+EE480	Electronics and Electrical Engineering	Electrical Power Systems Operation and Control	Dr. Chandan  Kumar	Monday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+EE482	Electronics and Electrical Engineering	Advanced Electrical Engineering Laboratory	Dr. Sanjib Ganguly, Dr. Ravindranath Adda, Dr. Praveen Tripathy	Friday-9.0-11.55,Thursday-9.0-11.55
+
+EE498	Electronics and Electrical Engineering	Project I	Dr. Kalpana Dhaka	Sunday-18.0-18.30
+
+EE698	Electronics and Electrical Engineering	Project Phase I	Dr. Sisir Kumar Nayak	Sunday-18.0-18.30
+
+EE590	Electronics and Electrical Engineering	Linear Algebra and Optimization	Dr. Tony Jacob	Thursday-11.0-11.55,Friday-11.0-11.55,Tuesday-11.0-11.55
+
+EE591	Electronics and Electrical Engineering	Probability and Stochastic Process	Dr. Suresh Sundaram	Monday-10.0-10.55,Wednesday-9.0-9.55,Friday-9.0-9.55
+
+EE520	Electronics and Electrical Engineering	Signal Processing Algorithm and Architecture	Prof. Manas Kamal Bhuyan	Thursday-10.0-10.55,Wednesday-10.0-10.55,Friday-10.0-10.55
+
+EE523	Electronics and Electrical Engineering	Introduction to Machine Learning	Dr. Prithwijit  Guha	Wednesday-8.0-8.55,Monday-8.0-8.55,Friday-8.0-8.55
+
+EE524	Electronics and Electrical Engineering	Machine Learning Laboratory	Dr. Prithwijit  Guha	Wednesday-14.0-16.55
+
+EE510	Electronics and Electrical Engineering	Semestericonductor Device Modeling	Prof. Roy  Paily Palathinkal	Wednesday-9.0-9.55,Thursday-9.0-9.55,Friday-9.0-9.55
+
+EE511	Electronics and Electrical Engineering	Semestericonductor IC Technology	Dr. Arun Tej Mallajosyula, Prof. Roy  Paily Palathinkal	Friday-12.0-12.55,Tuesday-9.0-9.55,Thursday-12.0-12.55
+
+EE513	Electronics and Electrical Engineering	VLSI Lab I	Prof. Roy  Paily Palathinkal	Wednesday-13.0-16.55
+
+EE514	Electronics and Electrical Engineering	Digital IC Design	Dr. Gaurav Trivedi	Monday-10.0-10.55,Friday-11.0-11.55,Tuesday-11.0-11.55
+
+EE560	Electronics and Electrical Engineering	Power Electronic Converters	Dr. Shabari   Nath	Wednesday-11.0-11.55,Monday-11.0-11.55,Tuesday-10.0-10.55
+
+EE561	Electronics and Electrical Engineering	Power Electronics Laboratory	Dr. Chandan  Kumar	Wednesday-14.0-16.55
+
+EE570	Electronics and Electrical Engineering	Modern Power Systems	Dr. Praveen Tripathy	Monday-9.0-9.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+EE571	Electronics and Electrical Engineering	Insulation & High Voltage Engineering	Dr. Sisir Kumar Nayak	Monday-10.0-10.55,Wednesday-9.0-9.55,Tuesday-11.0-11.55
+
+EE530	Electronics and Electrical Engineering	Communication System Theory	Dr. Kalpana Dhaka	Tuesday-12.0-12.55,Thursday-9.0-9.55,Monday-12.0-12.55
+
+EE531	Electronics and Electrical Engineering	Communication Systems Simulation Lab	Dr. Ribhu	Wednesday-14.0-16.55
+
+EE532	Electronics and Electrical Engineering	Information and Coding Theory	Dr. Brijesh Kumar Rai	Thursday-10.0-10.55,Wednesday-10.0-10.55,Friday-10.0-10.55
+
+EE610	Electronics and Electrical Engineering	Fundamental of VLSI CAD	Dr. Gaurav Trivedi	Tuesday-17.0-18.25,Thursday-17.0-18.25
+
+EE623	Electronics and Electrical Engineering	Speech Signal Processing and Coding	Prof. Rohit Sinha	Tuesday-16.0-16.55,Thursday-16.0-16.55,Friday-16.0-16.55
+
+EE646	Electronics and Electrical Engineering	Optical Measurement Techniques and Applications	Dr. Rishikesh Dilip Kulkarni	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+EE633	Electronics and Electrical Engineering	Error Control Codes	Dr. A.  Rajesh	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+EE340M	Electronics and Electrical Engineering	Electromagnetic Field Theory	Unspecified	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+EE550	Electronics and Electrical Engineering	Linear Systems Theory	Prof. Chitralekha Mahanta	Tuesday-12.0-12.55,Friday-12.0-12.55,Thursday-12.0-12.55
+
+EE551	Electronics and Electrical Engineering	Estimation and Identification	Dr. Indrani Kar	Thursday-10.0-10.55,Tuesday-10.0-10.55,Friday-10.0-10.55
+
+EE552	Electronics and Electrical Engineering	Applied Control Lab	Prof. Chitralekha Mahanta	Wednesday-14.0-16.55
+
+EE540	Electronics and Electrical Engineering	Advance Electromagnetic Theory & Antennas	Prof. Ratnajit Bhattacharjee	Tuesday-12.0-12.55,Thursday-11.0-11.55,Monday-12.0-12.55
+
+EE542	Electronics and Electrical Engineering	RF Circuits & Systems	Dr. Mahima Arrawatia	Wednesday-12.0-12.55,Friday-17.0-17.55,Monday-14.0-14.55
+
+EE545	Electronics and Electrical Engineering	Fiber Optic Systems	Dr. Ramesh Kumar Sonkar	Monday-11.0-11.55,Friday-11.0-11.55,Tuesday-11.0-11.55
+
+EE546	Electronics and Electrical Engineering	Optical Systems Lab	Dr. Ramesh Kumar Sonkar	Wednesday-14.0-16.55
+
+EE634	Electronics and Electrical Engineering	MIMO Wireless Communications. Fundamentals and Advances	Prof. Rakhesh  Singh Kshetrimayum	Tuesday-16.0-16.55,Thursday-16.0-16.55,Friday-16.0-16.55
+
+EE636	Electronics and Electrical Engineering	Selected Topics in Information Theory	Dr. Tony Jacob	Wednesday-8.0-8.55,Monday-8.0-8.55,Thursday-8.0-8.55
+
+EE659	Electronics and Electrical Engineering	Fuzzy Logic and Neural Networks	Dr. Indrani Kar, Prof. Chitralekha Mahanta	Tuesday-16.0-16.55,Thursday-16.0-16.55,Friday-16.0-16.55
+
+EE692	Electronics and Electrical Engineering	Detection and Estimation Theory	Dr. Smarajit Das	Friday-15.0-15.55,Monday-15.0-15.55,Tuesday-14.0-14.55
+
+EE693	Electronics and Electrical Engineering	Advanced Topics in Random Processes	Prof. Prabin Kumar Bora	Thursday-15.0-15.55,Friday-14.0-14.55,Tuesday-15.0-15.55
+
+EE101	Electronics and Electrical Engineering	Basic Electronics	Prof. Somanath Majhi, Prof. Samarendra Dandapat, Prof. Rohit Sinha, Prof. Shaik Rafi Ahamed, Prof. Sanjay Kumar Bose	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55,Thursday-8.0-8.55
+
+EE211M	Electronics and Electrical Engineering	Analog Circuits	Prof. Harshal  Bhalchandra Nemade	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+EE424M	Electronics and Electrical Engineering	Communication Systems	Dr. Sonali Chouhan	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+EE644	Electronics and Electrical Engineering	Plasmonics, Nanophotonics and Metamaterials	Dr. Debabrata  Sikdar
+
+PH305	Physics	Computational Physics	Dr. Meduri Chakravartula Kumar	Monday-10.0-11.55,Tuesday-13.0-13.55,Thursday-13.0-13.55
+
+PH301	Physics	Microprocessor Architecture & Programming	Prof. Seenipandian Ravi	Wednesday-17.0-17.55,Tuesday-16.0-16.55,Friday-14.0-14.55
+PH303	Physics	Atomic and Molecular Spectroscopy	Prof. Alika Khare	Wednesday-16.0-16.55,Monday-15.0-15.55,Tuesday-14.0-14.55
+PH307	Physics	Statistical Mechanics	Prof. Girish  Sampath Setlur	Wednesday-15.0-15.55,Friday-15.0-15.55,Tuesday-17.0-17.55
+PH311	Physics	Electronics Lab II	Prof. Seenipandian Ravi, Prof. A Srinivasan	Thursday-9.0-11.55,Thursday-14.0-16.55
+
+PH201	Physics	Mathematical Physics	Dr. Tarak Nath Dey	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+PH203	Physics	Classical Mechanics	Dr. Udit Raha	Monday-10.0-10.55,Thursday-12.0-12.55,Friday-8.0-8.55
+
+PH205	Physics	Semestericonductor Devices	Dr. Subhash Thota	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+PH207	Physics	Heat and Thermodynamics	Dr. Sovan Chakraborty	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+PH209	Physics	Analog Electronics	Prof. Dilip  Pal	Friday-9.0-9.55,Tuesday-11.0-11.55,Thursday-8.0-8.55
+
+PH211	Physics	Electronics Laboratory -I	Dr. Tarak Nath Dey, Prof. Subhradip Ghosh	Tuesday-14.0-17.55,Wednesday-14.0-17.55
+
+PH413	Physics	Materials Science & Engineering	Prof. Pratima Agarwal	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+PH415	Physics	Lasers & Photonics	Dr. Ashwini Kumar Sharma	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+PH417	Physics	Advanced Physics Lab	Dr. Subhash Thota, Prof. Amarendra Kumar Sarma	Monday-14.0-16.55,Tuesday-14.0-16.55
+
+PH498	Physics	Project I	dupcphy	Sunday-18.0-18.30
+
+PH501	Physics	Electrodynamics II	Prof. Sunil Kumar Khijwania	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55,Tuesday-17.0-17.55
+PH503	Physics	Atomic and Molecular Physics	Dr. Soumitra  Nandi	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55,Thursday-17.0-17.55
+PH505	Physics	Solid State Physics	Dr. Debaprasad Maity	Friday-17.0-17.55,Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+PH507	Physics	Nuclear and Particle Physics	Dr. Debasish  Borah	Monday-17.0-17.55,Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+PH512	Physics	Measurement Techniques	Dr. Dobbidi Pamu	Thursday-16.0-16.55,Friday-15.0-15.55,Wednesday-10.0-11.55
+PH511	Physics	General Physics Laboratory II	Dr. Gagan   Kumar, Dr. Charudatt Yashwant Kadolkar	Friday-9.0-11.55,Thursday-9.0-11.55
+
+PH101	Physics	Physics-I	Dr. Pankaj Kumar Mishra, Dr. Tapan  Mishra, Dr. Uday Narayan Maiti, Dr. Santabrata Das	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+PH110	Physics	Physics Laboratory	Dr. Subhaditya Bhattacharya, Prof. Sunil Kumar Khijwania, Dr. Debasish  Borah, Dr. Debaprasad Maity, Dr. Arunansu Sil	Friday-9.0-11.55,Tuesday-9.0-11.55,Thursday-9.0-11.55,Wednesday-9.0-11.55
+
+PH401	Physics	Mathematical Physics I	Dr. Subhaditya Bhattacharya	Thursday-10.0-10.55,Wednesday-9.0-9.55,Tuesday-8.0-8.55
+PH403	Physics	Classical Mechanics	Dr. Charudatt Yashwant Kadolkar	Wednesday-11.0-11.55,Tuesday-10.0-10.55,Friday-8.0-8.55,Thursday-8.0-8.55
+PH405	Physics	Quantum Mechanics I	Dr. Sayan Kumar Chakrabarti	Wednesday-12.0-12.55,Thursday-9.0-9.55,Tuesday-11.0-11.55,Monday-17.0-17.55
+PH407	Physics	Computer Programming	Prof. Perumal Alagarsamy	Thursday-15.0-15.55,Tuesday-15.0-15.55,Wednesday-14.0-16.55
+PH409	Physics	Electronics	Prof. Bipul  Bhuyan	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+PH411	Physics	Electronics Laboratory	Prof. Alika Khare, Prof. Pratima Agarwal	Friday-9.0-11.55,Monday-9.0-11.55,Monday-14.0-16.55,Friday-14.0-16.55
+PH703	Physics	Quantum Electronics	Dr. Gagan   Kumar	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+PH444	Physics	Nanomaterials and nanoelectronics	Prof. A  Srinivasan	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+PH552	Physics	Image formation in optical systems	Prof. Bosanta Ranjan Boruah	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+PH455	Physics	Microwave theory and applications	Dr. Kanhaiya  Pandey	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+PH463	Physics	Theory of Relativity	Dr. Bibhas Ranjan Majhi	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+PH701	Physics	Advanced Condensed Matter Physics	Prof. Saurabh Basu	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+PH705	Physics	Quantum Field Theory and the Standard Model	Dr. Arunansu  Sil	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+PH707	Physics	Computational Physics	Prof. Padma Kumar Padmanabhan	Friday-10.0-11.55,Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+PH462	Physics	Quantum technology and phenomena in macroscopic systems	Prof. Amarendra Kumar Sarma	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+PH281M	Physics	Quantum Physics	Prof. Pravat Kumar Giri	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+PH381M	Physics	Computational Physics	Dr. Meduri Chakravartula Kumar	Monday-10.0-11.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+PH001	Physics	Preparatory Physics-I	Dr. Malay Kumar Nandy	Sunday-18.0-18.30
+CH301	Chemistry	Environmental Chemistry	Dr. Animesh  Das	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CH311	Chemistry	Industrial Chemistry	Dr. Chandan Mukherjee, Dr.	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+CH331	Chemistry	Chemical Kinetics and Electrochemistry	Dr. Kalyanasis Sahu	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CH314	Chemistry	Chemical Technology Lab II	Dr. Shyam Prosad Biswas, Dr. Chandan Mukherjee	Tuesday-9.0-11.55,Thursday-9.0-11.55
+
+CH212	Chemistry	Inorganic Chemistry	Prof. Manabendra Ray, Prof. Gopal Das	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+CH221	Chemistry	Organic Chemistry	Dr. Lal Mohan Kundu, Dr. Subhas Chandra Pan	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55,Wednesday-8.0-8.55
+
+CH231	Chemistry	Introduction to Quantum Chemistry	Prof. Anumita Paul	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+CH401	Chemistry	Modern Chemical Technology	Dr. Debapratim Das	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55
+
+CH402	Chemistry	Technical Report and Presentation	Dr. Achalkumar Ammathnadu Sudhakar	Thursday-14.0-16.55
+
+CH498	Chemistry	Project – I	Prof. Parameswar K Iyer	Sunday-18.0-18.30
+
+CH500	Chemistry	Graduate Semesterinar	Prof. Sandip Paul	Thursday-9.0-11.55
+
+CH511	Chemistry	Principles of Bioinorganic Chemistry	Prof. Biplab Mondal	Monday-17.0-17.55,Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+CH520	Chemistry	Concepts in Organic Synthesis	Dr. Chandan Kumar Jana, Dr. Dipankar   Srimani	Friday-17.0-17.55,Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+CH530	Chemistry	Classical and Statistical Thermodynamics	Prof. Aditya Narayan Panda	Wednesday-17.0-17.55,Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+CH535	Chemistry	Physical Chemistry Laboratory	Dr. Debasis  Manna, Dr. Uttam Manna	Tuesday-9.0-11.55,Monday-9.0-11.55,Wednesday-9.0-11.55
+CH521	Chemistry	Modern Techniques and Scope of Chemical Biology	Prof. Subhendu Sekhar Bag, Dr. Sunanda Chatterjee	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55,Thursday-17.0-17.55
+CH101	Chemistry	Chemistry	Prof. Bhisma Kumar Patel, Dr. Akshai Kumar Alape Seetharam, Prof. Arun Chattopadhyay	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CH110	Chemistry	Chemistry Laboratory	Dr. Achalkumar Ammathnadu Sudhakar, Dr. Lal Mohan Kundu, Dr. Subhas Chandra Pan, Prof.	Monday-9.0-11.55
+
+CH416	Chemistry	Frontiers of Coordination Chemistry	Prof. Vadivelu Manivannan	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+CH427	Chemistry	Medicinal Chemistry	Prof. Bhubaneswar Mandal	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+CH437	Chemistry	Nano Scale Science and Technology	Prof. Mohammad Qureshi	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+CH410	Chemistry	Chemistry of p-and d-Block Elements	Prof. Jubaraj Bikash Baruah	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+CH420	Chemistry	Principles of Organic Chemistry	Prof. Anil Kumar Saikia, Dr. Pavan Kumar Kancharla	11.0-11.55,Tuesday-10.0-10.55,Friday-8.0-8.55
+CH430	Chemistry	Quantum Chemistry	Dr. Manabendra Sarma	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55,Thursday-8.0-8.55
+CH431	Chemistry	Group Theory and Spectroscopy	Prof. G  Krishnamoorthy	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55,Wednesday-8.0-8.55
+CH435	Chemistry	Physical Chemistry Laboratory	Dr. Manabendra Sarma, Dr. Kalyan  Raidongia	Monday-14.0-16.55,Tuesday-14.0-16.55,Wednesday-14.0-16.55
+CH601	Chemistry	Physical Methods in Chemistry	Dr. Chivukula Vasudeva Sastri	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+CH626	Chemistry	Art in Organic Synthesis	Prof. Abu Taleb Khan	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+CH633	Chemistry	Chemical Application of Group Theory	Dr. Sumana  Dutta	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55
+
+CH642	Chemistry	Applied Inorganic Chemistry	Dr. Kingsuk Mahata	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+CH001	Chemistry	Preparatory Chemistry (Physical)	Prof. Ashish  Kumar Gupta	Sunday-18.0-18.30
+
+CH429	Chemistry	Petroleums and Petrochemicals	Prof. Tharmalingam Punniyamurthy	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+MA225	Mathematics	Probability Theory and Random Processes	Dr. Ayon  Ganguly, Dr. Subhamay  Saha	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55,Wednesday-8.0-8.55
+
+MA322	Mathematics	Scientific Computing	Prof. Natesan Srinivasan	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55,Tuesday-17.0-17.55
+
+MA372	Mathematics	Stochastic Calculus for Finance	Dr. Chandan  Pal	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+MA201	Mathematics	Mathematics III	Dr. Sweta  Tiwari, Prof. M. Guru Prem Prasad, Prof. Durga Charan Dalal, Dr. Arup Chattopadhyay	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+
+MA221	Mathematics	Discrete Mathematics	Dr. Bikash Bhattacharjya	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+MA222	Mathematics	Elementary Number Theory Algebra	Prof. Kanduru Venkata Krishna	Monday-9.0-9.55,Tuesday-10.0-10.55,Wednesday-11.0-11.55
+MA251	Mathematics	Data Structures	Dr. Ashok Singh Sairam	Tuesday-12.0-12.55,Thursday-12.0-12.55
+
+MA423	Mathematics	Matrix Computations	Prof. Shreemayee Bora	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+MA453	Mathematics	Theory of Computation	Dr. H.  Ramesh	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+MA471	Mathematics	Statistical Analysis of Financial Data	Dr. Arabin Kumar Dey	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55,Thursday-8.0-8.55
+
+MA498	Mathematics	Project-I	Dr. Sagarmoy Dutta	Sunday-18.0-18.30
+
+MA572	Mathematics	Numerical Analysis	Dr. Siddhartha Pratim Chakrabarty	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55,Thursday-17.0-17.55
+
+MA697	Mathematics	Semesterinar	Dr. Sweta  Tiwari	Sunday-18.0-18.30
+
+MA514	Mathematics	Theory of Computation	Prof. Partha Sarathi Mandal	Monday-17.0-17.55,Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+MA543	Mathematics	Functional Analysis	Dr. Rajesh  Kumar Srivastava	Friday-17.0-17.55,Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+MA101	Mathematics	Mathematics-I	Dr. Rupam   Barman, Prof. Anupam Saikia, Prof. Jiten Chandra Kalita, Dr. Sriparna Bandyopadhyay	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55,Friday-8.0-8.55
+
+MA211M	Mathematics	Real Analysis	Unspecified	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+MA311M	Mathematics	Scientific Computing	Dr. Sudarshan Kumar Kenettinkara	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+MA411M	Mathematics	Differential Geometry	Dr. Sree Krishna Anantha Sai Palaparthi	Wednesday-12.0-12.55,Friday-12.0-12.55,Monday-12.0-12.55
+
+MA476	Mathematics	Portfolio Theory and Performance Analysis	Prof. N.  Selvaraju	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+MA506	Mathematics	Number Theory and Cryptography	Dr. Vinay Vilas Wagh	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55
+
+MA549	Mathematics	Topology	Dr. Anjan Kumar Chakrabarty	Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+MA563	Mathematics	Calculus of Variations and Optimal Control	Prof. Rajen Kumar Sinha	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+MA575	Mathematics	Mathematical Methods	Prof. Swaroop Nandan Bora	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+MA684	Mathematics	Advanced Probability	Dr. Sameer Kamal	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55
+
+MA501	Mathematics	Discrete Mathematics	Prof. Sukanta Pati	Thursday-11.0-11.55,Wednesday-10.0-10.55,Tuesday-9.0-9.55,Monday-8.0-8.55
+MA511	Mathematics	Computer Programming	Dr. Gautam Kumar Das	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55,Friday-8.0-8.55
+MA521	Mathematics	Modern Algebra	Dr. Shyamashree Upadhyay	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55,Thursday-8.0-8.55
+
+MA522	Mathematics	Linear Algebra	Prof. Prof. Bhaba Kumar Sarma	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55,Wednesday-8.0-8.55
+
+MA541	Mathematics	Real Analysis	Dr. Jitendriya Swain	Thursday-10.0-10.55,Wednesday-9.0-9.55,Friday-11.0-11.55,Tuesday-8.0-8.55
+MA518	Mathematics	Database Management Systems	Prof. Kalpesh Kapoor	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+MA579H	Mathematics	Scientific Computing	Prof. Rafikul Alam	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+MA580H	Mathematics	Matrix Computations	Prof. Rafikul Alam	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+MA581	Mathematics	Numerical Computations Lab	Prof. Rafikul Alam, Dr. Bhupen Deka	Friday-14.0-16.55
+
+MA625	Mathematics	Linear Algebra -1	Prof. Prof. Bhaba Kumar Sarma, Dr. Bikash Bhattacharjya	Monday-17.0-17.55,Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+MA642	Mathematics	Real Analysis -1	Dr. Pratyoosh Kumar	Friday-17.0-17.55,Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+MA662	Mathematics	Differential Equations	Dr. Bhupen  Deka	Monday-15.0-15.55,Tuesday-14.0-14.55,Friday-16.0-16.55,Thursday-17.0-17.55
+
+MA762	Mathematics	Potential Flow of Fluids & Water Wave Theory	Prof. Swaroop Nandan Bora	Wednesday-17.0-17.55,Monday-14.0-14.55,Thursday-16.0-16.55,Friday-15.0-15.55
+
+MA782	Mathematics	Levy Processes	Dr. Sameer Kamal	Wednesday-16.0-16.55,Thursday-15.0-15.55,Friday-14.0-14.55,Tuesday-17.0-17.55
+
+MA589	Mathematics	Statistical Foundations of Data Science	Dr. Palash Ghosh	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+MA001	Mathematics	Preparatory – I	Unspecified	Sunday-18.0-18.30
+
+HS301	Humanities and Social Sciences	Money and Banking	Prof. Saundarjya Borbora	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS305	Humanities and Social Sciences	Human Resource Management	Dr. Nachiketa Tripathi	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS334	Humanities and Social Sciences	Consumer Psychology	Dr. Naveen Kashyap	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS314	Humanities and Social Sciences	Science, Technology and Innovation. Sociological Perspectives	Dr. Sambit Mallick	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS315	Humanities and Social Sciences	Sound Structure of Language and Speech Analysis	Dr. Shakuntala Mahanta	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS316	Humanities and Social Sciences	Public Economics	Dr. Bodhisattva Sengupta	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS321	Humanities and Social Sciences	Psychology of Health and Adjustment	Dr. Dilwar Hussain	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS322	Humanities and Social Sciences	Industrial Organization	Dr. Amarjyoti Mahanta	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS326	Humanities and Social Sciences	Social History of Technology in Modern India	Dr. John   Thomas	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS325	Humanities and Social Sciences	Investigating Justice in Detective Fiction	Dr. Debapriya  Basu	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS328	Humanities and Social Sciences	Archaeological Studies in Ancient Technology	Dr. Sukanya Sharma	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS102	Humanities and Social Sciences	Introduction to International Politics	Dr. Pahi Saikia	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS331	Humanities and Social Sciences	Development and Its Discontents	Dr. Prasad Khanolkar	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS332	Humanities and Social Sciences	Introduction to the Indian Epics. Ramayana and Mahabharata	Dr. Kiran Keshavamurthy	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+HS221	Humanities and Social Sciences	Language, Culture and Cognition	Dr. Bidisha Som	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+HS245	Humanities and Social Sciences	Introduction to India's Health System	Dr. Daksha Chandu Parmar	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+HS501	Humanities and Social Sciences	Essentials of Political Theory	Dr. Prabhu Venkataraman	Wednesday-9.0-9.55,Thursday-9.0-9.55,Tuesday-9.0-9.55,Friday-9.0-9.55
+
+HS515	Humanities and Social Sciences	Introduction to Economics	Dr. Agnirup Sarkar	Monday-10.0-10.55,Thursday-11.0-11.55,Wednesday-10.0-10.55,Friday-8.0-8.55
+
+HS516	Humanities and Social Sciences	The Study of Society	Dr. Sawmya  Ray	Wednesday-12.0-12.55,Monday-11.0-11.55,Friday-11.0-11.55,Tuesday-11.0-11.55
+
+HS519	Humanities and Social Sciences	Economic History of Colonial India	Prof. Arupjyoti Saikia	Wednesday-8.0-8.55,Tuesday-8.0-8.55,Monday-8.0-8.55,Thursday-8.0-8.55
+
+HS522	Humanities and Social Sciences	Quantitative Research Methods in Social Sciences	Dr. Rajshree Bedamatta	Tuesday-12.0-12.55,Friday-12.0-12.55,Thursday-12.0-12.55,Wednesday-14.0-14.55
+
+HS520	Humanities and Social Sciences	Environment and Development	Dr. Ngamjahao  Kipgen	Monday-10.0-10.55,Thursday-9.0-9.55,Tuesday-10.0-10.55
+
+HS624	Humanities and Social Sciences	Land, Dispossession and Development	Dr. Vasundhara Jairath	Wednesday-15.0-15.55,Monday-14.0-14.55,Tuesday-14.0-14.55
+
+HS526	Humanities and Social Sciences	Conflict and Financial Diplomacy	Dr. Vipul Dutta	Tuesday-12.0-12.55,Monday-12.0-12.55,Wednesday-14.0-14.55
+
+HS618	Humanities and Social Sciences	Modern Political and Social Imaginaries	Dr. Mithilesh Kumar Jha	Monday-11.0-11.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+HS512	Humanities and Social Sciences	Critical Development Theory	Prof. Liza Das	Wednesday-11.0-11.55,Thursday-11.0-11.55,Friday-11.0-11.55
+
+HS615	Humanities and Social Sciences	Gandhi. The Man and His Ideas	Dr. Ritwik Ranjan	Thursday-14.0-14.55,Friday-14.0-14.55,Tuesday-15.0-15.55
+
+HS514	Humanities and Social Sciences	Agriculture and Rural Development	Prof. Mrinal Kanti Dutta	Monday-9.0-9.55,Wednesday-9.0-9.55,Tuesday-9.0-9.55
+
+HS620	Humanities and Social Sciences	Political Economy of Agrarian Development	Dr. Debarshi Das	Thursday-10.0-10.55,Wednesday-10.0-10.55,Friday-10.0-10.55
+
+HS627	Humanities and Social Sciences	Water Economics	Dr. Anamika Barua	Wednesday-12.0-12.55,Friday-12.0-12.55,Thursday-12.0-12.55
+
+HS698	Humanities and Social Sciences	Project Phase 1	dppchss	Sunday-18.0-18.30
+
+HS723	Humanities and Social Sciences	Methods in Historical Research	Dr. John   Thomas, Dr. Vipul Dutta	Sunday-17.15-17.16
+
+HS726	Humanities and Social Sciences	History of Assam	Prof. Arupjyoti Saikia	Sunday-18.0-18.30
+
+HS777	Humanities and Social Sciences	Politics of Knowledge Production	Dr. Vasundhara Jairath	Saturday-13.31-14.0
+
+HS765	Humanities and Social Sciences	Theorizing Gender	Dr. Sawmya  Ray	Saturday-19.0-21.0
+
+HS778	Humanities and Social Sciences	Feminist Geographies	Dr. Prasad Khanolkar	Tuesday-15.0-16.55
+
+HS736	Humanities and Social Sciences	Approaches to Prosodic Structure	Dr. Shakuntala Mahanta	Tuesday-15.0-16.55
+
+HS712	Humanities and Social Sciences	Introduction of Western Philosophy	Dr. Shakuntala Mahanta	Monday-17.0-18.25
+
+HS779	Humanities and Social Sciences	Health Policy and Research	Dr. Daksha Chandu Parmar	Wednesday-15.0-16.55
+
+HS752	Humanities and Social Sciences	Positive Psychology	Dr. Dilwar Hussain	Monday-17.0-18.25
+
+HS757	Humanities and Social Sciences	Sociology of Religion	Dr. Ngamjahao  Kipgen	Wednesday-17.0-18.25
+
+HS335	Humanities and Social Sciences	Introduction to International Politics	Unspecified
+
+HS759	Humanities and Social Sciences	Understanding Nations and Nationalism	Unspecified
+
+HS705	Humanities and Social Sciences	Growth & Development	Unspecified
+
+HS101	Humanities and Social Sciences	English Communication	Unspecified
+
+HS231M	Humanities and Social Sciences	Comparative  Drama	Prof. Rohini Mokashi Punekar	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+RT501	Centre for Rural Technology	Livelihood Management and Agro-Technology	Dr. Sudip  Mitra, Prof. Rakhi Chaturvedi	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+RT502	Centre for Rural Technology	Rural Energy	Dr. Pankaj  Kalita	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+RT503	Centre for Rural Technology	Rural Development and Rural Entrepreneurship	Prof. Mrinal Kanti Dutta, Dr. Siddhartha Singha	Tuesday-16.0-16.55,Wednesday-15.0-15.55,Thursday-14.0-14.55
+
+RT504	Centre for Rural Technology	Water Supply and Sanitation	Dr. Meena Khwairakpam	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+RT510	Centre for Rural Technology	Research Methodology and Field Work	Dr. Sudip  Mitra, Dr. Siddhartha Singha	Monday-13.0-13.55,Wednesday-13.0-13.55,Friday-13.0-13.55
+
+RT691	Centre for Rural Technology	Project Phase I	dppcrt	Sunday-18.0-18.30
+
+EN661	Energy	Renewable Energy Systems	Dr. Pankaj  Kalita	Monday-10.0-10.55,Friday-9.0-9.55,Tuesday-11.0-11.55
+
+EN673	Energy	Fundamentals of Energy Engineering	Dr. Harsh Chaturvedi, Dr. Pankaj Kalita	Monday-11.0-11.55,Thursday-9.0-9.55,Friday-10.0-10.55
+
+EN663	Energy	Operation and instrumentation	Dr. Lepakshi Barbora	Monday-9.0-9.55,Wednesday-11.0-11.55,Tuesday-10.0-10.55
+
+EN672	Energy	Energy Storage Systems	Dr. Harsh Chaturvedi	Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+EN698	Energy	Project 2	dppcenergy	Sunday-18.0-18.30
+
+NT707	Nanotechnology	Frontiers in Nonoscience and Nanotechnology	Prof. Tapas Kumar Mandal	Monday-17.0-17.55,Wednesday-17.0-17.55,Friday-17.0-17.55
+
+NT601	Nanotechnology	Nano Device. Fabrication, Productization and Patent Writing	Prof. Dipankar Bandypadhyay, Dr. Partho Sarathi Gooh Pattader	Wednesday-11.0-11.55,Monday-11.0-11.55,Friday-11.0-11.55
+
+IFST001	Food Science & Technology	Advanced Food Processing	Dr. R  Anandalakshmi, Prof. Vaibhav Vasant Goud, Dr. Pankaj Tiwari
+
+IFST002	Food Science & Technology	International Joint Exercises in Food Science and Technology-B	Prof. Ramagopal V. S. Uppaluri
+
+IFST003	Food Science & Technology	International Joint Global Internship & Semesterinar-B	Prof. Ramagopal V. S. Uppaluri
+
+IFST005	Food Science & Technology	Design Thinking and Scientific Writing	Prof. Pallab Ghosh, Prof. Ramagopal V. S. Uppaluri
+
+HS3XX	HSS-Elective III	HSS		Monday-16.0-16.55,Tuesday-15.0-15.55,Wednesday-14.0-14.55
+
+#############################################################
+***
+Department of CSE___Computer Science___M.Tech___First Semesterester
+CS512,CS513,CS514,CS566,CS574,CS529,CS578,CS502,CS522,CS525,CS527,CS551,CS575
+***
+Department of CSE___Data Science___M.Tech___First Semesterester
+CS591H,CS592H,CS593,CS594,MA589,MA579H,MA580H,MA581,CS566,CS574,CS529,CS578
+***
+Department of CSE___Computer Science___B.Tech___Third Semesterester
+MA222,MA225,CS201,CS203,CS204,CS221,CS242,CS205M,CS502,CS522,CS525,CS527,CS551,CS575
+***
+Department of CSE___Computer Science___B.Tech___Fifth Semesterester
+MA225,HS3XX,CS301,CS321,CS341,CS342,CS343,CS322M,CS502,CS522,CS525,CS527,CS551,CS575
+***
+Department of CSE___Computer Science___B.Tech___Seventh Semesterester
+CS431,CS461,CS462,CS441M,CS502,CS522,CS525,CS527,CS551,CS575
+***
+Department of Biosciences and Bioengineering___B. Tech.___III semester
+BT201,BT202,BT203,BT204,BT205
+***
+Department of Biosciences and Bioengineering___B. Tech.___V semester
+BT301,BT303,BT309,CL303,BT310,BT380,BT301M
+***
+Department of Biosciences and Bioengineering___B. Tech.___VII semester
+BT404,BT405,BT612,BT615,BT618,BT629,BT631,BT633,BT643,BT640
+***
+Department of Biosciences and Bioengineering___M. Tech.___I semester
+BT501,BT503,BT510,BT612,BT615,BT618,BT629,BT631,BT633,BT643,BT640
+***
+Department of Biosciences and Bioengineering___PhD
+BT612,BT615,BT618,BT629,BT631,BT633,BT643,BT640
+***
+Department of Chemical___B.Tech___II Year
+CL201,CL202,CL203,CL204,MA201,ME212
+***
+Department of Chemical___B.Tech___III Year
+CL301,CL303,CL204,CL312,CL313,HS3XX
+***
+Department of Chemical___B.Tech___IV Year
+CL402,CL403,CL416,CL417,CL611,CL613,CL614,CL615,CL626,CL629,CL631,CL636,CL640,CL641
+***
+Department of Chemical___M.Tech___I Year
+CL501,CL502,CL511,CL512,CL513,CL611,CL613,CL614,CL615,CL626,CL629,CL631,CL636,CL640,CL641
+***
+Department of Chemical___PhD
+CL501,CL502,CL511,CL512,CL513,CL611,CL613,CL614,CL615,CL626,CL629,CL631,CL636,CL640,CL641
+***
+Mathematics___B.Tech___III Semester
+MA201,MA221,MA222,MA225,MA251,MA211M
+***
+Mathematics___B.Tech___IV Semester
+MA322,MA372,HS3XX,MA311M,CS341,CS342,CS343
+***
+Mathematics___B.Tech___VII Semester
+MA423,MA471,MA411M,MA476,MA506,MA549,MA575,MA563,MA572,MA684
+***
+Mathematics___M.Sc.___III Semester
+MA501,MA511,MA521,MA522,MA541,MA514,MA543,MA572,MA506,MA549,MA563,MA575,MA684
+***
+Mathematics___Ph.D
+MA625,MA642,MA662,MA762,MA782
+***
+Humanities and Social Science___B.Des
+HS221,HS245
+***
+Humanities and Social Science___B.Tech
+HS325,HS328,HS102,HS331,HS332,HS322,HS305,HS326,HS334,HS301,HS314,HS315,HS316,HS321
+***
+Humanities and Social Science___MA
+HS501,HS515,HS516,HS519,HS522,HS520,HS624,HS526,HS618,HS512,HS514,HS620,HS627
+***
+Rural Technology
+RT501,RT502,RT503,RT504,RT510
+***
+Energy
+EN661,EN673,EN663,EN672
+***
+Nanotechnology
+NT707,NT601
+***
+Physics_B.Tech_Third Semester
+PH201,PH205,PH203,PH207,PH281M,PH101,EE220,PH209,PH211
+***
+Physics_B.Tech_Fifth Semester
+PH381M,PH303,HS3XX,PH305,PH303,HS3XX,PH301,PH307,PH311
+***
+Physics_B.Tech_Seventh Semester
+PH444,PH415,PH455,PH417,PH413,PH552,PH417,PH462,PH463,PH462
+***
+Physics_M.Sc._First Semester
+PH409,PH411,PH405,PH401,PH403,PH407
+***
+Physics_M.Sc._Third Semester
+PH503,PH505,PH507,PH501,PH512,PH511
+***
+Physics_PhD
+PH707,PH705,PH703,PH701
+***
+Chemistry B.Tech I Semester
+CH001,CH101,CH110
+***
+Chemistry B.Tech III Semester
+MA201,CL201,CL202,CH212,CH221,CH231
+***
+Chemistry B.Tech V Semester
+CH301,CH311,CH331,PH305,HS3XX,CH314
+***
+Chemistry B.Tech VII Semester
+CH401,CH402,CH416,CH427,CH437,CH429,CH498,CH633
+***
+Chemistry M.Sc I Semester
+CH410,CH420,CH430,CH431,CH435
+***
+Chemistry M.Sc III Semester
+CH500,CH511,CH520,CH521,CH530,CH535
+***
+Chemistry Ph.D
+CH601,CH626,CH633,CH642
+***
+Mechanical B.Tech III Semester (Section A)
+MA201,ME212,ME214,ME211M,ME211,ME215,ME213
+***
+Mechanical B.Tech III Semester (Section B)
+MA201,ME212,ME214,ME211M,ME213,ME211
+***
+Mechanical B.Tech V Semester (Section A)
+ME312,ME313,HS3XX,EE380,ME314,ME311
+***
+Mechanical B.Tech V Semester (Section B)
+ME313,EE380,ME314,ME315,ME311
+***
+Mechanical B.Tech VII Semester
+ME629,ME606,ME621,ME628,ME532,ME640,ME676,ME543,ME678,ME679,ME412,ME531,ME550,ME411
+***
+Mechanical M.Tech CM Semester
+ME620,ME659,ME606,ME621,ME521,ME628,ME532,ME520,ME523,ME543,ME501,ME676,ME531
+***
+Mechanical M.Tech FT Semester
+ME620,ME659,ME621,ME521,ME532,ME520,ME523,ME543,ME501,ME531
+***
+Mechanical M.Tech MD Semester
+ME629,ME659,ME628,ME532,ME530,ME620,ME640,ME676,ME678,ME679,ME501
+***
+Mechanical M.Tech MSE Semester
+ME629,ME659,ME628,ME532,ME530,ME620,ME640,ME676,ME678,ME679,ME501
+***
+Mechanical M.Tech AP Semester
+ME629,ME659,ME628,ME532,ME530,ME620,ME640,ME676,ME678,ME679,ME501,ME551
+
